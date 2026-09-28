@@ -10,3 +10,17 @@ I was motivated to create In the Woods as a spiritual successor to the [Wildland
 There will surely be plenty of bugs, both modded and vanilla in origin, that I have yet committed time to address. A lot of time has already gone into patching, testing, and reviewing the modlist. With its public release, I’m hopeful that issues can be better documented and prioritised.
 
 View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods). Considering the size of the list and its lack of new content, In the Woods contains many small mods that contribute to the overall experience. In the Woods requires an English installation of the latest Skyrim Special Edition version through Steam and the Anniversary Edition DLC.
+
+# Requirements
+
+# Pre-installation
+
+# Installation
+
+# Post-Installation
+
+# How to Play
+
+# Updating
+
+# Removing the Modlist
