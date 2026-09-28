@@ -35,6 +35,8 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 
 # Pre-installation
 
+> Prior to installing In the Woods, please complete the following.
+
 # Installation
 
 # Post-Installation
