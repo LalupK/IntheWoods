@@ -1,1 +1,38 @@
-
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "In the Woods",
+    "description": "In the Woods is a Wabbajack modlist providing an immersive, survival, role-playing experience. Containing 3000 mods, In the Woods strives to preserve Skyrim's original feeling while remaining relatively performance-conscious. The list requires the Anniversary Upgrade and integrates its content where appropriate.",
+    "author": "Lalup",
+    "maintainers": [
+      "github/LalupK"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Requiem",
+      "Survival",
+      "Anniversary Edition"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/image.webp",
+      "readme": "https://github.com/LalupK/IntheWoods/",
+      "download": "",
+      "machineURL": "IntheWoods",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "",
+      "Size": ,
+      "NumberOfArchives": ,
+      "SizeOfArchives": ,
+      "NumberOfInstalledFiles": ,
+      "SizeOfInstalledFiles":
+    },
+    "version": "1.0.0"
+  }
+]
