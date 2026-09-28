@@ -36,7 +36,7 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 # Pre-installation
 
 > Prior to installing In the Woods, please complete the following.
-
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 # Installation
 
 # Post-Installation
