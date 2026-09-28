@@ -17,10 +17,21 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 - Wabbajack requires Windows 10/11 Home or Pro—LTSC, IoT Enterprise and modified Windows versions are not supported.
 - Installing and playing the list from a Hard Drive or External Drive is strongly advised against.
 
-In the Woods requires a mid to high-tier system for a smooth, playable experience.
+In the Woods requires a mid to high-tier system for a smooth, playable experience. When designing the list, I have been very cautious about limiting draw calls and VRAM usage.
 
 | Component  | Recommended for 1080p |
 | :----------:|:--------------------:|
+| CPU | I5-10600
+| RAM | 16GB DDR4
+| Storage | SSD
+| GPU | RTX 3060 (8GB VRAM)
+
+| Component  | Recommended for 1440p |
+| :----------:|:--------------------:|
+| CPU | I5-12600
+| RAM | 32GB DDR4
+| Storage | M.2 SSD
+| GPU | RTX 4070 (12GB VRAM)
 
 # Pre-installation
 
