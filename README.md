@@ -17,7 +17,7 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 - Wabbajack requires Windows 10/11 Home or Pro—LTSC, IoT Enterprise and modified Windows versions are not supported.
 - Installing and playing the list from a Hard Drive or External Drive is strongly advised against.
 
-In the Woods requires a mid to high-tier system for a smooth, playable experience. When designing the list, I have been very cautious about limiting draw calls and VRAM usage.
+In the Woods requires a mid to high-tier system for a smooth, playable experience. When designing the list, I have been very cautious about limiting draw calls and VRAM usage, so your mileage may vary with less powerful hardware.
 
 | Component  | Recommended for 1080p |
 | :----------:|:--------------------:|
@@ -45,6 +45,12 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 7. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 # Installation
+
+> Download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a suitable folder—do not place it in Program Files, on your desktop, or in your downloads folder.
+1. Launch Wabbajack
+2. Navigate to the Browse Lists tab and select the "Not Featured" tab on the left side.
+3. Scroll or search for In the Woods using the provided search feature.
+4. Select "Download and Install" then set the installation folder to be somewhere like D:\Modlists\In the Woods. **Do not install it to your desktop or downloads folder.**
 
 # Post-Installation
 
