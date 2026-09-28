@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/image.webp)
 
-<h1 align="center">Version 1.0.0 ~ by Lalup</h1>
+<p align="center" style="font-size: 20px;">Version 1.0.0 ~ by Lalup</p>
 
 # Overview
