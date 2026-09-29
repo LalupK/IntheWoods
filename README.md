@@ -3,7 +3,9 @@
 <p align="center">Version 1.0.0 ~ by Lalup</p>
 
 # Overview
-In the Woods is built around [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), overhauling Skyrim to create a challenging, unlevelled world with meaningful choices. If you have never played [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) before, I highly recommend you watch the introductory [video](https://www.youtube.com/watch?v=fG7D8meR0cY) by [Greed](https://www.youtube.com/@GreedGaming01). In the Woods contains the latest version of [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), complemented by [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342), [Sunny's](https://www.nexusmods.com/profile/SUNNY333456/mods?gameId=1704) [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633), and [Noxcrab's](https://www.nexusmods.com/profile/Noxcrab/mods?gameId=1704) [Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591).
+In the Woods is built around [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), overhauling Skyrim to create a challenging, unlevelled world with meaningful choices. If you have never played [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) before, I highly recommend you watch the introductory [video](https://www.youtube.com/watch?v=fG7D8meR0cY) by [Greed](https://www.youtube.com/@GreedGaming01). In the Woods contains the latest version of [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), complemented by [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342), [Sunny's](https://www.nexusmods.com/profile/SUNNY333456/mods?gameId=1704) [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633), and [Noxcrab's](https://www.nexusmods.com/profile/Noxcrab/mods?gameId=1704) [Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591). These mods provide the foundation for a slower, more deliberate approach to Skyrim, where preparation, character development, and understanding the world are often more important than simply becoming stronger.
+
+In the Woods uses a collection of survival mods to make Skyrim's wilderness feel like a place that must be prepared for rather than simply travelled through. [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) and [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671) form the foundation, allowing you to establish camps and contend with Skyrim's harsh weather, while [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) adds hunger, thirst, and fatigue. [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886) further reinforces the physicality of travelling and fighting, while [Simple Fishing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/103440) and [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943) provide additional ways to sustain yourself in the wilderness. Together, these systems are designed to complement Requiem's emphasis on preparation and consequence, making journeys themselves an important part of the adventure.
 
 I was motivated to create In the Woods as a spiritual successor to the [Wildlander](https://wildlandermod.com/) but have taken inspiration from many others, such as [Gate to Sovngarde](https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx) and [Arkay’s Commandment](https://github.com/Fornication/Arkays-Commandment). Admittedly, this list has been developed over several years, taking breaks, returning with modding breakthroughs, and using whatever passion I have left to finish something that is worthwhile sharing. Over time, it has morphed into my personal modlist, with its own vision and preferences.
 
@@ -12,27 +14,6 @@ There will surely be plenty of bugs, both modded and vanilla in origin, that I h
 View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods). Considering the size of the list and its lack of new content, In the Woods contains many small mods that contribute to the overall experience. In the Woods requires an English installation of the latest Skyrim Special Edition version through Steam and the Anniversary Edition DLC.
 
 # What to Expect
-
-### Requiem
-- Requiem - The Roleplaying Overhaul
-- Requiem - Minor Arcana
-- Requiem - Small Tweaks
-- Requiem - Noxcrab's Tweaks
-- Requiem - Magic Redone
-
-### Enairim
-- Growl
-- Sacriledge
-- Wintersun
-
-### Survival
-- Campfire
-- Frostfall
-- Dirt and Blood
-- Simple Fishing Overhaul
-- Simple Hunting Overhaul
-- SunHelm
-- Simple Wearable Lanterns - Tweaks and Integration
 
 ### New Lands and Locations
 - Extended Cut: Saints and Seducers
