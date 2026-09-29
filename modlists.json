@@ -19,7 +19,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/image.webp",
-      "readme": "https://github.com/LalupK/IntheWoods/",
+      "readme": "https://github.com/LalupK/IntheWoods/blob/main/README.md",
       "download": "",
       "machineURL": "IntheWoods",
       "discordURL": ""
