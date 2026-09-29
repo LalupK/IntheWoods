@@ -7,6 +7,8 @@ In the Woods is built around [Requiem](https://www.nexusmods.com/skyrimspecialed
 
 In the Woods uses a collection of survival mods to make Skyrim's wilderness feel like a place that must be prepared for rather than simply travelled through. [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) and [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671) form the foundation, allowing you to establish camps and contend with Skyrim's harsh weather, while [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) adds hunger, thirst, and fatigue mechanics. [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886) further reinforces the physicality of travelling and fighting, while [Simple Fishing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/103440) and [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943) provide additional ways to sustain yourself in the wilderness. Together, these systems are designed to complement Requiem's emphasis on preparation and consequence, making journeys themselves an important part of the adventure.
 
+In the Woods expands Skyrim's economy and opportunities for work, giving the player more reasons to engage with the world outside of its major questlines. [Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439), [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081), and [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) adjust the value of gold and how it can be spent. [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145), [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576), [Headhunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847), and [Bounty Hunter](https://www.nexusmods.com/skyrimspecialedition/mods/109031) overhaul small jobs, bounties, and adds new contracts to undertake. These systems give the player opportunities to earn a living, build up their character, and interact with Skyrim's settlements.
+
 I was motivated to create In the Woods as a spiritual successor to the [Wildlander](https://wildlandermod.com/) but have taken inspiration from many others, such as [Gate to Sovngarde](https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx) and [Arkay’s Commandment](https://github.com/Fornication/Arkays-Commandment). Admittedly, this list has been developed over several years, taking breaks, returning with modding breakthroughs, and using whatever passion I have left to finish something that is worthwhile sharing. Over time, it has morphed into my personal modlist, with its own vision and preferences.
 
 There will surely be plenty of bugs, both modded and vanilla in origin, that I have yet committed time to address. A lot of time has already gone into patching, testing, and reviewing the modlist. With its public release, I’m hopeful that issues can be better documented and prioritised.
@@ -14,12 +16,6 @@ There will surely be plenty of bugs, both modded and vanilla in origin, that I h
 View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods). Considering the size of the list and its lack of new content, In the Woods contains many small mods that contribute to the overall experience. In the Woods requires an English installation of the latest Skyrim Special Edition version through Steam and the Anniversary Edition DLC.
 
 # What to Expect
-
-### New Lands and Locations
-- Extended Cut: Saints and Seducers
-- Morthal Barrow
-- Siege at Icemoth
-- Taarengrav Barrow
 
 ### Enhanced Graphics
 - Community Shaders
@@ -31,19 +27,6 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 - Merethic Grasslands
 - Pandorable's NPC Replacers
 
-### New Followers and Dialogue
-- Lucien
-- Serana Dialogue Expansion
-- Anbeegod's Follower Dialogue Expansion series
-
-### Economy and Bounties
-- Coins of Interesting Nature
-- Favor Jobs Overhaul
-- Headhunter
-- Honed Metal
-- Missives
-- Bounty Hunter
-- Trade and Barter
 
 ### Sound FX and Music
 - Audio Overhaul for Skyrim
