@@ -11,21 +11,13 @@ In the Woods expands Skyrim's economy and opportunities for work, giving the pla
 
 In the Woods aims to give Skyrim a natural and grounded visual experience. [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) provides the foundation for the list's lighting and shader improvements, complemented by [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567) and [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919) to create a more atmospheric and natural presentation. [Skyland PBR](https://www.nexusmods.com/skyrimspecialedition/mods/142565) overhauls Skyrim’s landscapes and architecture with higher-quality physically based textures, while [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085) improves fire and lighting effects. [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961) and [Merethic Grasslands](https://www.nexusmods.com/skyrimspecialedition/mods/164058) round out the landscape with denser, more varied vegetation, making Skyrim's forests, fields, and wilderness feel more alive without straying too far from its original aesthetic.
 
+In the Woods aims to create a darker and more immersive soundscape that complements Skyrim's wilderness and grounded atmosphere. [Audio Overhaul for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds – Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) provide the foundation for improved environmental and gameplay sounds, while [Clofas'](https://www.nexusmods.com/profile/Clofas/mods?gameId=1704) audio and sound FX series adds further depth and atmosphere to Skyrim's world. The musical experience is similarly shaped around a darker, more atmospheric tone, with [Bloodrush](https://www.nexusmods.com/skyrimspecialedition/mods/182306), [Nyghtfall](https://www.nexusmods.com/skyrimspecialedition/mods/39011), and The [Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108) expanding the soundtrack with music that emphasises Skyrim's harsher, more mysterious, and melancholic character.
+
 I was motivated to create In the Woods as a spiritual successor to the [Wildlander](https://wildlandermod.com/) but have taken inspiration from many others, such as [Gate to Sovngarde](https://www.nexusmods.com/games/skyrimspecialedition/collections/qdurkx) and [Arkay’s Commandment](https://github.com/Fornication/Arkays-Commandment). Admittedly, this list has been developed over several years, taking breaks, returning with modding breakthroughs, and using whatever passion I have left to finish something that is worthwhile sharing. Over time, it has morphed into my personal modlist, with its own vision and preferences.
 
 There will surely be plenty of bugs, both modded and vanilla in origin, that I have yet committed time to address. A lot of time has already gone into patching, testing, and reviewing the modlist. With its public release, I’m hopeful that issues can be better documented and prioritised.
 
 View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods). Considering the size of the list and its lack of new content, In the Woods contains many small mods that contribute to the overall experience. In the Woods requires an English installation of the latest Skyrim Special Edition version through Steam and the Anniversary Edition DLC.
-
-# What to Expect
-
-### Sound FX and Music
-- Audio Overhaul for Skyrim
-- Immersive Sounds – Compendium
-- Clofas’ Audio series
-- Bloodrush - Dark Folk Combat Music
-- Nyghtfall - Dark Fantasy Music
-- The Northerner Diaries - Immersive Edition
 
 # Requirements
 - In the Woods requires you to own the Anniversary Upgrade—it will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
