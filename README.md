@@ -30,7 +30,7 @@ Space Required: 355GB Total, 135GB Download.
 
 | Component  | Recommended for 1440p |
 | :----------:|:--------------------:|
-| CPU | I5-12600
+| CPU | I7-12700
 | RAM | 32GB DDR4
 | Storage | M.2 SSD
 | GPU | RTX 4070 (12GB VRAM)
