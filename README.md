@@ -19,7 +19,7 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 
 In the Woods requires a mid- to high-tier system for a smooth, playable experience. When designing the list, I have been very cautious about limiting draw calls and VRAM usage, so your mileage may vary with less powerful hardware.
 
-Space Required: 355GB Total, 135GB Download
+Space Required: 355GB Total, 135GB Download.
 
 | Component  | Recommended for 1080p |
 | :----------:|:--------------------:|
