@@ -14,20 +14,73 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 # What to Expect
 
 ### Requiem
+- Requiem - The Roleplaying Overhaul
+- Requiem - Minor Arcana
+- Requiem - Small Tweaks
+- Requiem - Noxcrab's Tweaks
+- Requiem - Magic Redone
+
+### Enairim
+- Growl
+- Sacriledge
+- Wintersun
 
 ### Survival
+- Campfire
+- Frostfall
+- Dirt and Blood
+- Simple Fishing Overhaul
+- Simple Hunting Overhaul
+- SunHelm
+- Simple Wearable Lanterns - Legacy - Tweaks and Integration
 
 ### New Lands and Locations
+- Extended Cut: Saints and Seducers
+- Morthal Barrow
+- Siege at Icemoth
+- Taarengrav Barrow
 
 ### Enhanced Graphics
+- Community Shaders
+- NAT.III CS
+- Lux CS
+- Skyland PBR
+- Embers XD
+- Happy Little Trees
+- Merethic Grasslands
 
 ### New Followers and Dialogue
+- Lucien
+- Serana Dialogue Expansion
+- Anbeegod's Follower Dialogue Expansion series
 
 ### Economy and Bounties
+- Coins of Interesting Nature
+- Favor Jobs Overhaul
+- Headhunter
+- Honed Metal
+- Missives
+- Bounty Hunter
+- Trade and Barter
 
 ### Sound FX and Music
+- Audio Overhaul for Skyrim
+- Immersive Sounds – Compendium
+- Clofas’ Audio series
+- Bloodrush - Dark Folk Combat Music
+- Nyghtfall - Dark Fantasy Music
+- The Northerner Diaries - Immersive Edition
 
 ### New and Expanded Quests
+- JaySerpa's Quest Expansion series
+- Knight of the North - Divine Crusader Reworked
+- Penitus Oculatus
+- Belethor's Sister
+- Save the Icerunner - Lights Out Alternate Routes
+- Scriptures of the Dragon Cult
+- SIRENROOT - Deluge of Deceit
+- The Forsworn Conspiracy - Quest Expansion
+- Thieves Guild Alternative Endings
 
 # Requirements
 - In the Woods requires you to own the Anniversary Upgrade—it will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
