@@ -32,7 +32,7 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 - Simple Fishing Overhaul
 - Simple Hunting Overhaul
 - SunHelm
-- Simple Wearable Lanterns - Legacy - Tweaks and Integration
+- Simple Wearable Lanterns - Tweaks and Integration
 
 ### New Lands and Locations
 - Extended Cut: Saints and Seducers
