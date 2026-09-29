@@ -11,6 +11,24 @@ There will surely be plenty of bugs, both modded and vanilla in origin, that I h
 
 View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods). Considering the size of the list and its lack of new content, In the Woods contains many small mods that contribute to the overall experience. In the Woods requires an English installation of the latest Skyrim Special Edition version through Steam and the Anniversary Edition DLC.
 
+# What to Expect
+
+## Requiem
+
+## Survival
+
+## New Lands and Locations
+
+## Enhanced Graphics
+
+## New Followers and Dialogue
+
+## Economy and Bounties
+
+## Sound FX and Music
+
+## New and Expanded Quests
+
 # Requirements
 - In the Woods requires you to own the Anniversary Upgrade—it will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
 - Only the Steam English version of Skyrim Anniversary Edition is supported—GOG and other languages are not supported. In the Woods is compiled with the latest Skyrim version 1.7.104.
