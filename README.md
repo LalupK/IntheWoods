@@ -35,7 +35,7 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 
 # Pre-installation
 
-> Prior to installing In the Woods, please complete the following.
+> Prior to installing In the Woods, please complete the following:
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable). This is more for convenience as In the Woods creates its own stock game within the Mod Organiser 2 instance.
 3. Fully uninstall Skyrim by deleting the root folder and the Skyrim Special Edition folder inside \Documents\My Games\.
@@ -65,7 +65,11 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 
 # Updating
 
+- Unless stated otherwise in the changelog, updates should be safe to install on an existing save file. Simply launch Wabbajack, browse lists and install In the Woods to the same location, checking the overwrite option.
 
+# Removing the Modlist
 
+- Delete the folder to uninstall the modlist.
 
-# Removing the M
+# Credits
+
