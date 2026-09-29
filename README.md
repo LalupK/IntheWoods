@@ -15,19 +15,19 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 
 ### Requiem
 
-## Survival
+### Survival
 
-## New Lands and Locations
+### New Lands and Locations
 
-## Enhanced Graphics
+### Enhanced Graphics
 
-## New Followers and Dialogue
+### New Followers and Dialogue
 
-## Economy and Bounties
+### Economy and Bounties
 
-## Sound FX and Music
+### Sound FX and Music
 
-## New and Expanded Quests
+### New and Expanded Quests
 
 # Requirements
 - In the Woods requires you to own the Anniversary Upgrade—it will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
