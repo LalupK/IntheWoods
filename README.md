@@ -48,15 +48,24 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 
 > Download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a suitable folder—do not place it in Program Files, on your desktop, or in your downloads folder.
 1. Launch Wabbajack and select settings and log in with Nexus Mods.
-2. Navigate to the Browse Lists tab and select the "Not Featured" checkbox on the left side.
+2. Navigate to the Browse Lists tab and select the "Not-featured" checkbox on the left side.
 3. Scroll or search for In the Woods using the provided search feature.
 4. Select "Download and Install" then set the installation folder to be somewhere like D:\Modlists\In the Woods. **Do not install it to your desktop or downloads folder.**
 5. Press install and let Wabbajack do its thing.
 
 # Post-Installation
 
+1. Open the installation folder and run the program executable "ModOrganizer.exe".
+2. In Mod Organizer 2, in the top left select the icon that looks like puzzle pieces and find "Set CPU Affinity". Select it and allow the plugin to set the affinity for your processor.
+
 # How to Play
+
+1. Open the installation folder and run the program executable "ModOrganizer.exe".
+2. In the top right, browse the dropdown menu and select "Play In the Woods" or "SKSE" and hit Run.
 
 # Updating
 
-# Removing the Modlist
+
+
+
+# Removing the M
