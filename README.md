@@ -74,37 +74,9 @@ Space Required:
 
 - Delete the folder to uninstall the modlist.
 
-# Credits
-
 <details>
   <summary>Credits</summary>
   
-Automatic CRDW -  Cirussss
-Bethini Pie - DoubleYou
-Dark Face Issue Reporter -  LTmz
-DynDOLOD and xLODGen - Sheson
-FOMOD Plus -  aglowinthefield
-lilebonymace's xEdit scripts -  lilebonymace
-LOOT - Ortham
-Mator Smash Updated - Mator and ChuckSeven1
-Mod Organizer 2 - Tannin and the MO2 team.
-NIF Preview -  Parapets
-No Grass In Objects -  meh321
-PageFile Manager -  MaskedRPGFan
-PGPatcher - Hakasapl
-Portal Strict Lights Patcher Framework - AlaxoucheModding
-Requiem - The Requiem Dungeon Masters and ProbablyManuel
-Set CPU Affinity for Mod Organizer -  MaskedRPGFan
-SKSE - Ianpatt and the SKSE team
-Skyrim Runtime Swapper -  Wuerfelhusten
-SSEdit - ElminsterAU and the xEdit team
-Synthesis - Noggog
-Wabbajack - Halgari and the Wabbajack team
-Wildlander - Dylanbperry and the Wildlander team
-Worldspaces with Grass SSEEdit Script -  DoubleYou
-  
-</details>
-
 - Automatic CRDW -  Cirussss
 - Bethini Pie - DoubleYou
 - Dark Face Issue Reporter -  LTmz
@@ -128,3 +100,5 @@ Worldspaces with Grass SSEEdit Script -  DoubleYou
 - Wabbajack - Halgari and the Wabbajack team
 - Wildlander - Dylanbperry and the Wildlander team
 - Worldspaces with Grass SSEEdit Script -  DoubleYou
+  
+</details>
