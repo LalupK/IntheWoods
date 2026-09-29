@@ -48,6 +48,7 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 - Embers XD
 - Happy Little Trees
 - Merethic Grasslands
+- Pandorable's NPC Replacers
 
 ### New Followers and Dialogue
 - Lucien
