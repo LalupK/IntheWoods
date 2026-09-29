@@ -47,10 +47,11 @@ In the Woods requires a mid to high-tier system for a smooth, playable experienc
 # Installation
 
 > Download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a suitable folder—do not place it in Program Files, on your desktop, or in your downloads folder.
-1. Launch Wabbajack
-2. Navigate to the Browse Lists tab and select the "Not Featured" tab on the left side.
+1. Launch Wabbajack and select settings and log in with Nexus Mods.
+2. Navigate to the Browse Lists tab and select the "Not Featured" checkbox on the left side.
 3. Scroll or search for In the Woods using the provided search feature.
 4. Select "Download and Install" then set the installation folder to be somewhere like D:\Modlists\In the Woods. **Do not install it to your desktop or downloads folder.**
+5. Press install and let Wabbajack do its thing.
 
 # Post-Installation
 
