@@ -12,12 +12,12 @@ There will surely be plenty of bugs, both modded and vanilla in origin, that I h
 View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods). Considering the size of the list and its lack of new content, In the Woods contains many small mods that contribute to the overall experience. In the Woods requires an English installation of the latest Skyrim Special Edition version through Steam and the Anniversary Edition DLC.
 
 # Requirements
-- In the Woods requires you to own the Anniversary Upgrade—It will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
+- In the Woods requires you to own the Anniversary Upgrade—it will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
 - Only the Steam English version of Skyrim Anniversary Edition is supported—GOG and other languages are not supported. In the Woods is compiled with the latest Skyrim version 1.7.104.
-- Wabbajack requires Windows 10/11 Home or Pro—LTSC, IoT Enterprise and modified Windows versions are not supported.
-- Installing and playing the list from a Hard Drive or External Drive is strongly advised against.
+- Wabbajack requires Windows 10/11 Home or Pro—LTSC, IoT Enterprise, and modified Windows versions are not supported.
+- Installing and playing the list from a hard drive or external drive is strongly advised against.
 
-In the Woods requires a mid to high-tier system for a smooth, playable experience. When designing the list, I have been very cautious about limiting draw calls and VRAM usage, so your mileage may vary with less powerful hardware.
+In the Woods requires a mid- to high-tier system for a smooth, playable experience. When designing the list, I have been very cautious about limiting draw calls and VRAM usage, so your mileage may vary with less powerful hardware.
 
 Space Required: 
 
@@ -39,12 +39,12 @@ Space Required:
 
 > Prior to installing In the Woods, please complete the following:
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
-2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable). This is more for convenience as In the Woods creates its own stock game within the Mod Organiser 2 instance.
+2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable). This is more for convenience, as In the Woods creates its own stock game within the Mod Organiser 2 instance.
 3. Fully uninstall Skyrim by deleting the root folder and the Skyrim Special Edition folder inside \Documents\My Games\.
 4. Fully disable OneDrive and any other programs which hook into user file areas.
 5. Reinstall Skyrim into a location that is not Program files.
 6. Start the game once to generate necessary files and download the Anniversary Upgrade content.
-7. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+7. Remove/disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, cause more problems than they solve.
 
 # Installation
 
@@ -52,22 +52,23 @@ Space Required:
 1. Launch Wabbajack and select settings and log in with Nexus Mods.
 2. Navigate to the Browse Lists tab and select the "Not-featured" checkbox on the left side.
 3. Scroll or search for In the Woods using the provided search feature.
-4. Select "Download and Install" then set the installation folder to be somewhere like D:\Modlists\In the Woods. **Do not install it to your desktop or downloads folder.**
+4. Select "Download and Install", then set the installation folder to be somewhere like D:\Modlists\In the Woods. **Do not install it in your desktop or downloads folder.**
 5. Press install and let Wabbajack do its thing.
 
 # Post-Installation
 
 1. Open the installation folder and run the program executable "ModOrganizer.exe".
-2. In Mod Organizer 2, in the top left select the icon that looks like puzzle pieces and find "Set CPU Affinity". Select it and allow the plugin to set the affinity for your processor.
+2. In Mod Organizer 2, in the top left, select the icon that looks like puzzle pieces and find "Set CPU Affinity". Select it and allow the plugin to set the affinity for your processor.
 
 # How to Play
 
 1. Open the installation folder and run the program executable "ModOrganizer.exe".
 2. In the top right, browse the dropdown menu and select "Play In the Woods" or "SKSE" and hit Run.
+- Press F11 to view controls.
 
 # Updating
 
-- Unless stated otherwise in the changelog, updates should be safe to install on an existing save file. Simply launch Wabbajack, browse lists and install In the Woods to the same location, checking the overwrite option.
+- Unless stated otherwise in the changelog, updates should be safe to install on an existing save file. Simply launch Wabbajack, browse lists, and install In the Woods to the same location, checking the overwrite option.
 
 # Removing the Modlist
 
