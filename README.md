@@ -19,17 +19,6 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 
 # What to Expect
 
-### Enhanced Graphics
-- Community Shaders
-- NAT.III CS
-- Lux CS
-- Skyland PBR
-- Embers XD
-- Happy Little Trees
-- Merethic Grasslands
-- Pandorable's NPC Replacers
-
-
 ### Sound FX and Music
 - Audio Overhaul for Skyrim
 - Immersive Sounds – Compendium
@@ -37,17 +26,6 @@ View the full load order [here](https://loadorderlibrary.com/lists/in-the-woods)
 - Bloodrush - Dark Folk Combat Music
 - Nyghtfall - Dark Fantasy Music
 - The Northerner Diaries - Immersive Edition
-
-### New and Expanded Quests
-- JaySerpa's Quest Expansion series
-- Knight of the North - Divine Crusader Reworked
-- Penitus Oculatus
-- Belethor's Sister
-- Save the Icerunner - Lights Out Alternate Routes
-- Scriptures of the Dragon Cult
-- SIRENROOT - Deluge of Deceit
-- The Forsworn Conspiracy - Quest Expansion
-- Thieves Guild Alternative Endings
 
 # Requirements
 - In the Woods requires you to own the Anniversary Upgrade—it will not be compatible with the non-paid or older versions of Skyrim Special Edition. 
