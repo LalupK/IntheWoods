@@ -4,6 +4,7 @@
 - Headman's Cleaver uses glaive animations - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
 - Some soups/stews are not recognised by [SunHelm](www.nexusmods.com/skyrimspecialedition/mods/39414)
 - Mountain issues/placements - [Mountain LOD Helper](https://www.nexusmods.com/skyrimspecialedition/mods/146350)
+- Bright texture in door/cave entrance - unknown, likely PGPatcher 
 
 # Immersive Equipment Displays
 1. Remove Torch
