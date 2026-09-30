@@ -11,5 +11,36 @@
 3. Reverse Dagger
 4. UseThoseHorses (Bounties)
 
-# Requiem Reqtificator (plugins to hide)
-- 
+# Requiem Reqtificator (plugins to hide; do not select any settings)
+- Requiem - Improved Spell Learning
+- Hunters Loot
+- City Bag Checks
+- Producers of Skyrim
+- RegionalFoodBarrels
+- EmptyPotions
+- BA_LostLibrary
+- BA_Bibliophiles
+- AngisCampTweaks
+- MorePlantable RareCurios
+- Jail Armor Stack Exploit
+- Realistic Camp Storage
+- Fish Anywhere
+- Fishing Preview
+- TalkToSummons
+- NightingaleStuff
+- HonedMetal
+- RentMyHome
+- TonalDoors
+- ImmersiveHunting
+- SoupsOfSkyrim
+
+# LOD Guide
+
+- Hide Requiem for the Indifferent.
+- Brightness: 5, Contrast: 40, Gamma: 1.00
+- Disable Skyland PBR but keep Skyland AIO enabled.
+- Enable Tamriel Extend.
+- Run xLodGen and generate the terrain LOD.
+- Disable Tamriel Extend.
+- Enable Skyland PBR and run TexGen and DynDolod.
+> You only need to disable Skyland PBR when you're going to generate the terrain LOD.
