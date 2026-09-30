@@ -1,7 +1,7 @@
 # **1.0.1**
 <Details>
 
-Added:
+*Added:*
 
 - The Pigeon's Nest (1.8.8)
   - Soothing of Shopkeepers 
