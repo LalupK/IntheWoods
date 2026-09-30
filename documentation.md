@@ -6,7 +6,7 @@
 - Mountain issues/placements - [Mountain LOD Helper](https://www.nexusmods.com/skyrimspecialedition/mods/146350)
 - Bright texture in door/cave entrance - unknown, likely PGPatcher
 - Bright lights in Markarth - [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919) and [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)
-- Missing Embers in Helgen Keep - source uknown
+- Missing Embers in Helgen Keep - source unknown; yet to investigate
 
 # Immersive Equipment Displays
 1. Remove Torch
