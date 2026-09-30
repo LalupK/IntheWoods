@@ -58,7 +58,7 @@
 - Hide: meshes\architecture\solitude\doors\sgatedoor.nif
 
 # Skyland PBR Archive Links
-Skyland PBR: https://www.nexusmods.com/skyrimspecialedition/mods/142565?tab=files&file_id=655150
-Skyland Bits and Bobs PBR: https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=601237
-Skyland Bits and Bobs PBR Update: https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=601235
-Skyking PBR: https://www.nexusmods.com/skyrimspecialedition/mods/143209?tab=files&file_id=612498
+- Skyland PBR: https://www.nexusmods.com/skyrimspecialedition/mods/142565?tab=files&file_id=655150
+- Skyland Bits and Bobs PBR: https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=601237
+- Skyland Bits and Bobs PBR Update: https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=601235
+- Skyking PBR: https://www.nexusmods.com/skyrimspecialedition/mods/143209?tab=files&file_id=612498
