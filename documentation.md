@@ -35,12 +35,11 @@
 - SoupsOfSkyrim
 
 # LOD Guide
-
-- Hide Requiem for the Indifferent.
-- Brightness: 5, Contrast: 40, Gamma: 1.00
+- Hide Requiem for the Indifferent.esp
 - Disable Skyland PBR but keep Skyland AIO enabled.
 - Enable Tamriel Extend.
-- Run xLodGen and generate the terrain LOD.
+- Run xLodGen and generate the terrain LOD (Brightness: 5, Contrast: 40, Gamma: 1.00).
 - Disable Tamriel Extend.
 - Enable Skyland PBR and run TexGen and DynDolod.
+- DynDolod (Medium; Tree Mesh Rules LOD4/Level 0, LOD8/Billboard 4, LOD16/Billboard 1; Crown/Trunk/FlatTrunk Brightness 0.666).
 > You only need to disable Skyland PBR when you're going to generate the terrain LOD.
