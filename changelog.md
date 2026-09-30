@@ -1,5 +1,6 @@
 # **1.0.1**
 <Details>
+
 Added:
 
 - The Pigeon's Nest (1.8.8) - Soothing of Shopkeepers 
@@ -14,6 +15,7 @@ Updated:
 - The Pigeon's Nest (1.8.8)
 - Dremora Combat Dialogue Tweak - Dremora Lines Expansion (1.2.2)
 - My Precious...es - Multiple Rings SKSE (1.0.2)
+
 </Details>
 
 # **1.0.0**
