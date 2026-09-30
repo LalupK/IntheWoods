@@ -7,7 +7,7 @@
   - Soothing of Shopkeepers 
 - Optional Download: In the Woods - DynDOLOD Output (Performance)
 
-Removed:
+**Removed:**
 
 - HDR - Community Shaders (1.2.2)
   - Causing issues with the meta file
@@ -15,7 +15,7 @@ Removed:
 - Bethini Pie (4.17)
   - Causing issues with the meta file (previously known)
 
-Updated:
+**Updated:**
 
 - In the Woods - Configuration Output (1.0.1)
   - Updated Modlist Update Checker
