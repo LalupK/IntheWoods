@@ -1,7 +1,8 @@
 # **1.0.1**
 <Details>
 Added:
-- The Pigeon's Nest - Soothing of Shopkeepers (1.8.8)
+
+- The Pigeon's Nest (1.8.8) - Soothing of Shopkeepers 
 - Optional: In the Woods - DynDOLOD Output (Performance)
 
 Updated:
