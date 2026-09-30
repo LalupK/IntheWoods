@@ -10,10 +10,10 @@ Added:
 Removed:
 
 - HDR - Community Shaders
-  - Causing issues with the meta file.
-  - Should be optional.
+  - Causing issues with the meta file
+  - Should be optional
 - Bethini Pie (4.17)
-  - Causing issues with the meta file (previously known).
+  - Causing issues with the meta file (previously known)
 
 Updated:
 
