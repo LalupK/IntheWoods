@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "In the Woods",
-    "description": "In the Woods is a Wabbajack modlist providing an immersive, survival, role-playing experience. Containing 3000 mods, In the Woods strives to preserve Skyrim's original feeling while remaining relatively performance-conscious. The list requires the Anniversary Upgrade and integrates its content where appropriate.",
+    "description": "In the Woods is a Wabbajack modlist providing an immersive, survival, role-playing experience. Containing 3000 mods, In the Woods strives to preserve Skyrim\u0027s original feeling while remaining relatively performance-conscious. The list requires the Anniversary Upgrade and integrates its content where appropriate.",
     "author": "Lalup",
     "maintainers": [
       "github/LalupK"
@@ -17,27 +16,29 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/image.webp",
       "readme": "https://github.com/LalupK/IntheWoods/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/In the Woods.wabbajack_a4624eed-c8de-46b0-a363-c568d320ad64",
+      "download": "https://authored-files.wabbajack.org/In the Woods.wabbajack_69010b75-ab97-41c5-bda3-7b9a11071da9",
       "machineURL": "LalupKIntheWoods",
       "discordURL": "",
       "websiteURL": "https://github.com/LalupK/IntheWoods",
       "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Y4omu4ncbdc=",
-      "Size": 835135308,
-      "NumberOfArchives": 3254,
-      "SizeOfArchives": 158552281344,
-      "NumberOfInstalledFiles": 277985,
-      "SizeOfInstalledFiles": 235365814036,
-      "TotalSize": 393918095380
+      "Hash": "fY8JwQ4za7U=",
+      "Size": 856810391,
+      "NumberOfArchives": 3252,
+      "SizeOfArchives": 158531007580,
+      "NumberOfInstalledFiles": 278160,
+      "SizeOfInstalledFiles": 235373263945,
+      "TotalSize": 393904271525
     },
-    "version": "1.0.0"
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-09-30T09:20:05.2791558Z",
+    "repositoryName": ""
   }
 ]
