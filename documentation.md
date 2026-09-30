@@ -43,3 +43,22 @@
 - Enable Skyland PBR and run TexGen and DynDolod.
 - DynDolod (Medium; Tree Mesh Rules LOD4/Level 0, LOD8/Billboard 4, LOD16/Billboard 1; Crown/Trunk/FlatTrunk Brightness 0.666).
 > You only need to disable Skyland PBR when you're going to generate the terrain LOD.
+
+# Grass Cache (mods to disable)
+- SkyUI
+- CleanAutoSaveReloader
+- CrashLogger
+- DiscordRichPresence
+- MCM Helper
+- TulliusCTDLogger
+- CommunityShaders
+- Interface Separator (**EXCEPT** SKYUI - AIO Survival, Simply Order Summons, Dream Counter, DAK)
+
+# PGPatcher
+- Hide: meshes\architecture\solitude\doors\sgatedoor.nif
+
+# Skyland PBR Archive Links
+Skyland PBR: https://www.nexusmods.com/skyrimspecialedition/mods/142565?tab=files&file_id=655150
+Skyland Bits and Bobs PBR: https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=601237
+Skyland Bits and Bobs PBR Update: https://www.nexusmods.com/skyrimspecialedition/mods/142908?tab=files&file_id=601235
+Skyking PBR: https://www.nexusmods.com/skyrimspecialedition/mods/143209?tab=files&file_id=612498
