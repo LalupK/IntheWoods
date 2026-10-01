@@ -1,5 +1,5 @@
 # Bugs
-- Random Nighteye Magic Effect - Read the **USSEP Unwanted Effects Remover** book
+- Random Nighteye Magic Effect when entering Bleak Falls Barrow, solution: read the **USSEP Unwanted Effects Remover** book
 - Hostile actors do not fire bolts from crossbows - [Manual Crossbow Reloading - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/185238)
 - Headman's Cleaver uses glaive animations - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
 - Some soups/stews are not recognised by [SunHelm](www.nexusmods.com/skyrimspecialedition/mods/39414)
