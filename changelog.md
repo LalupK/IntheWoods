@@ -1,3 +1,20 @@
+# **1.0.3**
+<Details>
+
+**Added:**
+- Merethic Grasslands - PBR
+- Divine Crusader - Redone - PBR (Leo's version)
+
+**Fixes:**
+- Fixed the lighting conflicts between Lux and Treasury Exchange
+
+**Removed:**
+- Divine Crusader - Redone - PBR (Alies' version)
+
+**Updated:**
+
+</Details>
+
 # **1.0.2**
 <Details>
 
