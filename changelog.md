@@ -1,3 +1,14 @@
+# **1.0.2**
+<Details>
+
+**Added:**
+
+**Removed:**
+
+**Updated:**
+
+</Details>
+
 # **1.0.1**
 <Details>
 
