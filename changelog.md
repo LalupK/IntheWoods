@@ -5,12 +5,12 @@
 - Non-Exploitable Crossbow Reload
 - Non-Exploitable Crossbow Reload - Auto Start
 - Make Non-Exploitable Crossbow Slow Again For Requiem
-- Fixed Soups appearing in cooking pots
 
 **Fixes:**
 - Fixed baskets in The Mortar and Pestle
 - Fixed pickaxe placement in the Dawnstar Quicksilver Mine
 - Removed Solitude Gate from PGPatcher output
+- Fixed Soups appearing in cooking pots
 
 **Removed:**
 - Grass Optimizations - Community Shaders
