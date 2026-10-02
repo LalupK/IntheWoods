@@ -19,6 +19,7 @@
 - Requiem - Magic Redone - Visual Tweaks - Shadow Clone on Self Patch
 - Soups of Skyrim - Cooking Pot Containers Contain Food
 - Soups of Skyrim - Fishing Patch
+- Underwater Skyrim - Dungeons and Dawnguard
 
 **Updated:**
 - In the Woods - Configuration Output
