@@ -5,9 +5,13 @@
 - Merethic Grasslands - PBR
 - Divine Crusader - Redone - PBR (Leo's version)
 
-**Fixes:**
-- Fixed the lighting conflicts between Lux and Treasury Exchange
+**Changes**
 - Consistency lighting change for Magelight and Candlelight
+- Alchemists sell Alchemical Lantern Fuel
+- Court Wizards sell Magical Lantern Fuel
+
+**Fixes:**
+- Fixed the lighting conflict between Lux and Treasury Exchange
 
 **Removed:**
 - Divine Crusader - Redone - PBR (Alies' version)
