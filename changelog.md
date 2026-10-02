@@ -20,6 +20,7 @@
 - Soups of Skyrim - Cooking Pot Containers Contain Food
 - Soups of Skyrim - Fishing Patch
 - Underwater Skyrim - Dungeons and Dawnguard
+- Talkative Dragons - Audio Replacer
 
 **Updated:**
 - In the Woods - Configuration Output
@@ -34,6 +35,8 @@
 - Loading Menu Overhaul
 - Dynamic String Distributor
 - NPC Animation Remix
+- DynDOLOD 3 Alpha
+- Simplicity of Sea
 
 </Details>
 
