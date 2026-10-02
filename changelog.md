@@ -4,6 +4,8 @@
 **Added:**
 
 **Removed:**
+- Grass Optimizations - Community Shaders
+- Manual Crossbow Reloading - SKSE
 
 **Updated:**
 
