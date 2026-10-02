@@ -19,7 +19,8 @@
 
 **Updated:**
 - In the Woods - Configuration Output
-- 
+- In the Woods - Nemesis Output
+- In the Woods - PGPatcher Output
 
 </Details>
 
