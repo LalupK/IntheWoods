@@ -74,6 +74,10 @@ Space Required: 368GB Total, 148GB Download.
 2. In the top right, browse the dropdown menu and select "Play In the Woods" or "SKSE" and hit Run.
 - Press F11 to view controls.
 
+### Controls ###
+
+![](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/controlmap.webp)
+
 # Updating
 
 - Unless stated otherwise in the changelog, updates should be safe to install on an existing save file. Simply launch Wabbajack, browse lists, and install In the Woods to the same location, checking the overwrite option.
