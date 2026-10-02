@@ -21,6 +21,14 @@
 - In the Woods - Configuration Output
 - In the Woods - Nemesis Output
 - In the Woods - PGPatcher Output
+- SkyPrompt
+- Auto Resolution
+- Inventory Interface Information Injector Improved
+- SmoothCam
+- Arm Movement Animations
+- Loading Menu Overhaul
+- Dynamic String Distributor
+- NPC Animation Remix
 
 </Details>
 
