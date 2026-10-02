@@ -9,6 +9,7 @@
 **Fixes:**
 - Fixed baskets in The Mortar and Pestle
 - Fixed pickaxe placement in the Dawnstar Quicksilver Mine
+- Fixed missing embers in Helgen Keep
 - Removed Solitude Gate from PGPatcher output
 
 **Removed:**
