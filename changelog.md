@@ -25,6 +25,7 @@
 - In the Woods - Configuration Output
 - In the Woods - Nemesis Output
 - In the Woods - PGPatcher Output
+- In the Woods - DynDOLOD Output
 - SkyPrompt
 - Auto Resolution
 - Inventory Interface Information Injector Improved
