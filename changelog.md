@@ -2,12 +2,24 @@
 <Details>
 
 **Added:**
+- Non-Exploitable Crossbow Reload
+- Non-Exploitable Crossbow Reload - Auto Start
+- Make Non-Exploitable Crossbow Slow Again For Requiem
+- Fixed Soups appearing in cooking pots
+
+**Fixes**
+- Fixed baskets in The Mortar and Pestle
+- Fixed pickaxe placement in the Dawnstar Quicksilver Mine
+- Removed Solitude Gate from PGPatcher output
 
 **Removed:**
 - Grass Optimizations - Community Shaders
 - Manual Crossbow Reloading - SKSE
+- Removed Shadow Clone on Self
 
 **Updated:**
+- In the Woods - Configuration Output
+- 
 
 </Details>
 
