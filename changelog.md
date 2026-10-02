@@ -10,7 +10,6 @@
 - Fixed baskets in The Mortar and Pestle
 - Fixed pickaxe placement in the Dawnstar Quicksilver Mine
 - Removed Solitude Gate from PGPatcher output
-- Fixed Soups appearing in cooking pots
 
 **Removed:**
 - Grass Optimizations - Community Shaders
