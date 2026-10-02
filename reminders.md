@@ -35,7 +35,6 @@
 - RentMyHome
 - TonalDoors
 - ImmersiveHunting
-- SoupsOfSkyrim
 
 # LOD Guide
 - Hide Requiem for the Indifferent.esp
