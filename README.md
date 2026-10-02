@@ -77,6 +77,7 @@ Space Required: 368GB Total, 148GB Download.
 ### Controls ###
 
 ![](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/controlmap.webp)
+> Controllers are not currently supported.
 
 # Updating
 
