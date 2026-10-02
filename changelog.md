@@ -7,6 +7,7 @@
 
 **Fixes:**
 - Fixed the lighting conflicts between Lux and Treasury Exchange
+- Consistency lighting change for Magelight and Candlelight
 
 **Removed:**
 - Divine Crusader - Redone - PBR (Alies' version)
