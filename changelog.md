@@ -15,7 +15,8 @@
 **Removed:**
 - Grass Optimizations - Community Shaders
 - Manual Crossbow Reloading - SKSE
-- Removed Shadow Clone on Self
+- Shadow Clone on Self - For Requiem Magic Redone
+- Requiem - Magic Redone - Visual Tweaks - Shadow Clone on Self Patch
 
 **Updated:**
 - In the Woods - Configuration Output
