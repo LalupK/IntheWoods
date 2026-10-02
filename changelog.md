@@ -5,7 +5,7 @@
 - Merethic Grasslands - PBR
 - Divine Crusader - Redone - PBR (Leo's version)
 
-**Changes**
+**Changes:**
 - Consistency lighting change for Magelight and Candlelight
 - Alchemists sell Alchemical Lantern Fuel
 - Court Wizards sell Magical Lantern Fuel
