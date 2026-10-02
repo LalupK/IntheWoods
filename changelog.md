@@ -17,6 +17,8 @@
 - Manual Crossbow Reloading - SKSE
 - Shadow Clone on Self - For Requiem Magic Redone
 - Requiem - Magic Redone - Visual Tweaks - Shadow Clone on Self Patch
+- Soups of Skyrim - Cooking Pot Containers Contain Food
+- Soups of Skyrim - Fishing Patch
 
 **Updated:**
 - In the Woods - Configuration Output
