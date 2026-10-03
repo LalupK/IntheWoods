@@ -17,6 +17,7 @@
 
 **Fixes:**
 - Fixed the lighting conflict between Lux and Treasury Exchange
+- Small changes to the conflict resolution plugin
 
 **Removed:**
 - Divine Crusader - Redone - PBR (Alies' version)
