@@ -5,8 +5,8 @@
 - Merethic Grasslands - PBR
 - Divine Crusader - Redone - PBR (Leo's version)
 - The Taste of Death - Wintersun Add-on
-- Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending - Wintersun patch
-- Waking Nightmare - Alternative Ending - AFDI Wintersun patch
+- Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending - Wintersun Patch
+- Waking Nightmare - Alternative Ending - AFDI Wintersun Patch
 - Grassreach - A Blackreach Grass Mod - PBR
 
 **Changes:**
