@@ -11,8 +11,8 @@
 
 **Changes:**
 - Consistency lighting change for Magelight and Candlelight
-- Alchemists sell Alchemical Lantern Fuel
-- Court Wizards sell Magical Lantern Fuel
+- Alchemists sell alchemical lanterns and fuel
+- Wizards sell magical lanterns and fuel
 
 **Fixes:**
 - Fixed the lighting conflict between Lux and Treasury Exchange
