@@ -25,7 +25,12 @@
       "machineURL": "LalupKIntheWoods",
       "discordURL": "",
       "websiteURL": "https://github.com/LalupK/IntheWoods",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "518774",
+        "slug": "aeqep3",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "KuqmugtSbyA=",
