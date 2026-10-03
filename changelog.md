@@ -10,7 +10,7 @@
 - Grassreach - A Blackreach Grass Mod - PBR
 
 **Changes:**
-- Consistency lighting change for Magelight and Candlelight
+- Consistency lighting change for Magelight and Candlelight with lanterns
 - Alchemists sell alchemical lanterns and fuel
 - Wizards sell magical lanterns and fuel
 
