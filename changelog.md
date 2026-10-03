@@ -23,6 +23,7 @@
 - Lucien - Dwemer Ruin Redux
 - Jaws of Death - Slaughterfish Replacer
 - Remove Ugly Torch Glow
+- Mari's Reach Ferns - Vanilla Mesh Tweaks
 
 **Updated:**
 - Facial Hair by Khisartin - Standalone (Brows)
