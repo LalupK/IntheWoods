@@ -23,6 +23,7 @@
 
 **Updated:**
 - Facial Hair by Khisartin - Standalone (Brows)
+- Fires and Embers Clipping Fix
 
 </Details>
 
