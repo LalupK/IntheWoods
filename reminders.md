@@ -6,6 +6,7 @@
 - Bright texture in door/cave entrance - source unknown, likely PGPatcher
 - Bright lights in Markarth - [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919) and [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)
 - Weird PBR/Shader issue in Blackreach
+- Randomly receiving 50 gold while exploring the Rift - enable papyrus logging and investigate 
 
 # Immersive Equipment Displays
 1. Remove Torch
