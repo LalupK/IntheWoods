@@ -20,6 +20,7 @@
 - Divine Crusader - Redone - PBR (Alies' version)
 
 **Updated:**
+- Facial Hair by Khisartin - Standalone (Brows)
 
 </Details>
 
