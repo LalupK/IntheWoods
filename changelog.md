@@ -18,6 +18,7 @@
 
 **Removed:**
 - Divine Crusader - Redone - PBR (Alies' version)
+- Lucien - Dwemer Ruin Redux
 
 **Updated:**
 - Facial Hair by Khisartin - Standalone (Brows)
