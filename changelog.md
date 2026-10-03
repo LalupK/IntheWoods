@@ -7,6 +7,7 @@
 - The Taste of Death - Wintersun Add-on
 - Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending - Wintersun patch
 - Waking Nightmare - Alternative Ending - AFDI Wintersun patch
+- Grassreach - A Blackreach Grass Mod - PBR
 
 **Changes:**
 - Consistency lighting change for Magelight and Candlelight
