@@ -4,6 +4,8 @@
 **Added:**
 - Merethic Grasslands - PBR
 - Divine Crusader - Redone - PBR (Leo's version)
+- The Taste of Death - Wintersun Add-on
+- Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending - Wintersun patch
 
 **Changes:**
 - Consistency lighting change for Magelight and Candlelight
