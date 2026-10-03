@@ -8,6 +8,7 @@
 - Mehrunes Dagon's Shrine Unlocked - Pieces of the Past Alternate Ending - Wintersun Patch
 - Waking Nightmare - Alternative Ending - AFDI Wintersun Patch
 - Grassreach - A Blackreach Grass Mod - PBR
+- HDR (optional)
 
 **Changes:**
 - Consistency lighting change for Magelight and Candlelight with lanterns
@@ -24,6 +25,7 @@
 **Updated:**
 - Facial Hair by Khisartin - Standalone (Brows)
 - Fires and Embers Clipping Fix
+- SunHelm - Individual Follower Needs
 
 </Details>
 
