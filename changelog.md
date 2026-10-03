@@ -21,6 +21,7 @@
 **Removed:**
 - Divine Crusader - Redone - PBR (Alies' version)
 - Lucien - Dwemer Ruin Redux
+- Jaws of Death - Slaughterfish Replacer
 
 **Updated:**
 - Facial Hair by Khisartin - Standalone (Brows)
