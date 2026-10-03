@@ -22,6 +22,7 @@
 - Divine Crusader - Redone - PBR (Alies' version)
 - Lucien - Dwemer Ruin Redux
 - Jaws of Death - Slaughterfish Replacer
+- Remove Ugly Torch Glow
 
 **Updated:**
 - Facial Hair by Khisartin - Standalone (Brows)
