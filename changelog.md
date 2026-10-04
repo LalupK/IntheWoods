@@ -6,6 +6,9 @@
 - Immersive Dialogue Expansion - Volkihar
 - Armory of Tovinaan - Dragon Priest Armor Patches for Siege at Icemoth
   - Main File
+  - Draugrs New Model Patch
+  - Humanoid Dragon Priests Patch
+  - Humanoid Dragon Priests - Draugrs New Model Patch
 
 **Changes:**
 - Changed Potion of Blood model
