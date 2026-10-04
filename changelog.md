@@ -18,6 +18,7 @@
 - Sleep in Bed SKSE - sleep prompt will open automatically
 
 **Fixes:**
+- Fixed Wrothgar Tartare's icon and SunHelm support
 
 **Removed:**
 - Slampire's Creation Cave - Creation Club Reintegration
