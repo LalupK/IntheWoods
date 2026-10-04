@@ -4,6 +4,8 @@
 **Added:**
 - Shadow Scene Node Crash Fix
 - Immersive Dialogue Expansion - Volkihar
+- Armory of Tovinaan - Dragon Priest Armor Patches for Siege at Icemoth
+  - Main File
 
 **Changes:**
 - Changed Potion of Blood model
