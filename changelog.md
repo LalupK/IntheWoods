@@ -9,6 +9,7 @@
   - Draugrs New Model Patch
   - Humanoid Dragon Priests Patch
   - Humanoid Dragon Priests - Draugrs New Model Patch
+  - Open Helmet Patch
 
 **Changes:**
 - Changed Potion of Blood model
