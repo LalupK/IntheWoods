@@ -20,6 +20,8 @@
 **Fixes:**
 
 **Removed:**
+- Slampire's Creation Cave - Creation Club Reintegration
+  - Creation Cave - Chrysamere.esp
 
 **Updated:**
 - Horizon Fix
