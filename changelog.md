@@ -16,6 +16,7 @@
 
 **Changes:**
 - Changed Potion of Blood model
+- Sleep in Bed SKSE - sleep prompt will open automatically
 
 **Fixes:**
 
