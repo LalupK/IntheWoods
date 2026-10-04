@@ -16,6 +16,7 @@
 
 **Changes:**
 - Sleep in Bed SKSE - sleep prompt will open automatically
+- Added SunHelm keywords to food items added by Diverse Hunter Camps
 
 **Fixes:**
 - Fixed Wrothgar Tartare's icon and SunHelm support
