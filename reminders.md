@@ -35,6 +35,7 @@
 - RentMyHome
 - TonalDoors
 - ImmersiveHunting
+- TTOD_WSN_RingBinding
 
 # LOD Guide
 - Hide Requiem for the Indifferent.esp
