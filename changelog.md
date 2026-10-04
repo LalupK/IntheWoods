@@ -10,6 +10,9 @@
   - Humanoid Dragon Priests Patch
   - Humanoid Dragon Priests - Draugrs New Model Patch
   - Open Helmet Patch
+- Lost Paladin of Fort Icemoth - Chrysamere Redone
+  - Main File
+  - Skeleton HD Patch
 
 **Changes:**
 - Changed Potion of Blood model
