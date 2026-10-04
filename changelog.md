@@ -1,3 +1,26 @@
+# **1.0.4**
+<Details>
+
+**Added:**
+- Shadow Scene Node Crash Fix
+- Immersive Dialogue Expansion - Volkihar
+
+**Changes:**
+
+**Fixes:**
+
+**Removed:**
+
+**Updated:**
+- Horizon Fix
+- Portal Strict Lights xEdit Patcher
+- BodySlide and Outfit Studio
+- SkyPrompt
+- Inventory Interface Information Injector Improved
+- Get Lost - A Player Map Marker Hider
+
+</Details>
+
 # **1.0.3**
 <Details>
 
