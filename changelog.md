@@ -6,6 +6,7 @@
 - Immersive Dialogue Expansion - Volkihar
 
 **Changes:**
+- Changed Potion of Blood model
 
 **Fixes:**
 
