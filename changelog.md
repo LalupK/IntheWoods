@@ -18,6 +18,7 @@
 - SkyPrompt
 - Inventory Interface Information Injector Improved
 - Get Lost - A Player Map Marker Hider
+- Main Menu Design Replacer - Multilanguage - 60 FPS
 
 </Details>
 
