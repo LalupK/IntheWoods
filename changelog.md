@@ -25,7 +25,7 @@
 **Fixes:**
 - Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps, ECSS)
   - Had included a faulty SkyPatcher config previously
-- Lots a small position fixes for items in interiors
+- Lots a small position fixes for items in interiors (mainly in stores, inns, etc.)
 
 **Removed:**
 - Slampire's Creation Cave - Creation Club Reintegration
