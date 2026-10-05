@@ -16,7 +16,7 @@
 
 **Changes:**
 - Sleep in Bed SKSE - sleep prompt will open automatically
-- Community Shaders - Balanced to Quality Upscailing
+- Community Shaders - Balanced to Quality Upscailing, slightly increased grass brightness
 
 **Fixes:**
 - Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps, ECSS)
