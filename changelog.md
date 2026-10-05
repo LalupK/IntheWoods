@@ -47,6 +47,7 @@
 - NPCs Names Distributor
 - CBPC - Physics with Collisions for SSE and VR
 - Skyrim Unbound Reborn (Alternate Start)
+- Skyrim Runtime Swapper
 - In the Woods - Configuration Output
 - In the Woods - Grass Cache Output
 
