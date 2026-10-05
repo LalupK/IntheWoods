@@ -19,7 +19,7 @@
 - Community Shaders - Balanced to Quality Upscailing
 
 **Fixes:**
-- Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps)
+- Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps, ECSS)
 
 **Removed:**
 - Slampire's Creation Cave - Creation Club Reintegration
