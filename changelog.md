@@ -24,6 +24,7 @@
 **Removed:**
 - Slampire's Creation Cave - Creation Club Reintegration
   - Creation Cave - Chrysamere.esp
+- Inventory Interface Information Injector - Alchemy Fix
 
 **Updated:**
 - Horizon Fix
@@ -34,6 +35,8 @@
 - Get Lost - A Player Map Marker Hider
 - Main Menu Design Replacer
 - NPCs Names Distributor
+- CBPC - Physics with Collisions for SSE and VR
+- Skyrim Unbound Reborn (Alternate Start)
 
 </Details>
 
