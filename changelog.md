@@ -22,7 +22,7 @@
 
 **Fixes:**
 - Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps, ECSS)
-- Fixed the position of Telrav's note in the Vilemyr Inn
+- Lots a small position fixes for items in interiors
 
 **Removed:**
 - Slampire's Creation Cave - Creation Club Reintegration
