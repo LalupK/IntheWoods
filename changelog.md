@@ -29,6 +29,7 @@
   - Creation Cave - Chrysamere.esp
 - Inventory Interface Information Injector - Alchemy Fix
 - Vanilla Complex Grasses for ENB
+- ElSopa - Ash Piles
 
 **Updated:**
 - Horizon Fix
