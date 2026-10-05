@@ -1,7 +1,6 @@
 # Bugs
 - Nighteye imagespace enables when entering Bleak Falls Barrow, solution: read the **USSEP Unwanted Effects Remover** book
 - Headman's Cleaver uses glaive animations - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
-- Some soups/stews are not recognised by [SunHelm](www.nexusmods.com/skyrimspecialedition/mods/39414)
 - Mountain issues/placements - [Mountain LOD Helper](https://www.nexusmods.com/skyrimspecialedition/mods/146350)
 - Bright texture in door/cave entrance - source unknown, likely PGPatcher
 - Bright lights in Markarth - [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919) and [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)
