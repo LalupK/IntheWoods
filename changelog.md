@@ -31,6 +31,7 @@
 - Vanilla Complex Grasses for ENB
 - ElSopa - Ash Piles
 - Touchable Grass
+- Grassreach - A Blackreach Grass Mod - PBR
 
 **Updated:**
 - Horizon Fix
