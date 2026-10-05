@@ -13,6 +13,7 @@
 - Lost Paladin of Fort Icemoth - Chrysamere Redone
   - Main File
   - Skeleton HD Patch
+- Smart Training SKSE
 
 **Changes:**
 - Sleep in Bed SKSE - sleep prompt will open automatically
@@ -32,6 +33,7 @@
 - ElSopa - Ash Piles
 - Touchable Grass
 - Grassreach - A Blackreach Grass Mod - PBR
+- Smart Training NG
 
 **Updated:**
 - Horizon Fix
