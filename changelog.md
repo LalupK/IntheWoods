@@ -19,7 +19,7 @@
 - Added SunHelm keywords to food items added by Diverse Hunter Camps
 
 **Fixes:**
-- Fixed Wrothgar Tartare's icon and SunHelm support
+- Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps)
 
 **Removed:**
 - Slampire's Creation Cave - Creation Club Reintegration
