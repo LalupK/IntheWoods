@@ -26,6 +26,7 @@
 - Slampire's Creation Cave - Creation Club Reintegration
   - Creation Cave - Chrysamere.esp
 - Inventory Interface Information Injector - Alchemy Fix
+- Vanilla Complex Grasses for ENB
 
 **Updated:**
 - Horizon Fix
