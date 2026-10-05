@@ -30,6 +30,7 @@
 - Inventory Interface Information Injector - Alchemy Fix
 - Vanilla Complex Grasses for ENB
 - ElSopa - Ash Piles
+- Touchable Grass
 
 **Updated:**
 - Horizon Fix
@@ -42,6 +43,8 @@
 - NPCs Names Distributor
 - CBPC - Physics with Collisions for SSE and VR
 - Skyrim Unbound Reborn (Alternate Start)
+- In the Woods - Configuration Output
+- In the Woods - Grass Cache Output
 
 </Details>
 
@@ -75,6 +78,7 @@
 - Dovahkiin No The Mirmulnir Fix
 
 **Updated:**
+- In the Woods - Configuration Output
 - Facial Hair by Khisartin - Standalone (Brows)
 - Fires and Embers Clipping Fix
 - SunHelm - Individual Follower Needs
