@@ -20,6 +20,7 @@
 - Community Shaders - Balanced to Quality Upscailing, slightly increased grass brightness
 - Added more options to Skyrim Unbound Reborn
 - Configured Discord Rich Presence
+- Enabled first person messages for Favor Jobs Overhaul
 
 **Fixes:**
 - Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps, ECSS)
