@@ -16,7 +16,7 @@
 
 **Changes:**
 - Sleep in Bed SKSE - sleep prompt will open automatically
-- Added SunHelm keywords to food items added by Diverse Hunter Camps
+- Community Shaders - Balanced to Quality Upscailing
 
 **Fixes:**
 - Updated keywords for food items (Requiem, Spoiled Rotten, Simple Hunting Overhaul, Diverse Hunters Camps)
