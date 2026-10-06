@@ -1,3 +1,18 @@
+# **1.0.5**
+<Details>
+
+**Added:**
+
+**Changes:**
+
+**Fixes:**
+
+**Removed:**
+
+**Updated:**
+
+</Details>
+
 # **1.0.4**
 <Details>
 
