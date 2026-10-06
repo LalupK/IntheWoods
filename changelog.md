@@ -9,7 +9,7 @@
 
 **Removed:**
 - Multilayer Parallax Animated Dawnbreaker
-  - Animate Meshes main file
+  - Animated meshes main file
   - PBR textures main file
 
 **Updated:**
