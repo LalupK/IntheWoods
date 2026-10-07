@@ -20,6 +20,7 @@
   - PBR textures main file
 - Requiem - Enchanted Rings
 - Shalidor's Maze Puzzle Sound Fix
+- Tullius CTD Logger
 
 **Updated:**
 - In the Woods - Configuration Output
