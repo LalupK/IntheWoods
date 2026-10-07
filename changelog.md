@@ -49,6 +49,8 @@
 - Main Menu Design Replacer
 - Shadow Scene Node Crash Fix
 - PGPatcher
+- Arondil Better Integrated
+- Character Menu
 
 </Details>
 
