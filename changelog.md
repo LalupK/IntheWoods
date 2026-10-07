@@ -25,7 +25,9 @@
 - SunHelm - Individual Follower Needs
 - SkyPatcher
 - Player Character Gestures
-- Andrealletius College of Winterhold Quest Expansion + Patches
+- Andrealletius College of Winterhold Quest Expansion
+   - Main file
+   - Patches
 - Andrealletius Papyrus Functions
 - LOD Refresh Bug Fix
 - Main Menu Design Replacer
