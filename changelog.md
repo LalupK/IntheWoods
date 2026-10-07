@@ -4,6 +4,7 @@
 **Added:**
 
 **Changes:**
+- Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
 
 **Fixes:**
 
