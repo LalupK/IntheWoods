@@ -7,7 +7,6 @@
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
-- Changed the Rent a Bath dialogue's priority from 50 to 60
 - Changed Dynamic Follower Banter's random dialogue chance from 100 to 33
 
 **Fixes:**
