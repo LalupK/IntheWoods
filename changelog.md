@@ -16,6 +16,7 @@
   - Main file
   - Lux Patch
   - AE Patch
+- Havok Solver Crash Fix - SKSE
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
