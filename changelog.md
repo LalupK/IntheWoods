@@ -25,6 +25,7 @@
 - Requiem - Enchanted Rings
 - Shalidor's Maze Puzzle Sound Fix
 - Tullius CTD Logger
+- Choose Your Own Arch-Mage
 
 **Updated:**
 - In the Woods - Configuration Output
