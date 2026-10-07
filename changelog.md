@@ -21,6 +21,7 @@
 - HDT-SMP Creation Backpacks
 - HDT-SMP Creation Backpacks - Elsopa Potion Patch
 - Requiem - Boethiah's Calling - Alternate Questline
+- Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
