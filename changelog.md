@@ -9,7 +9,6 @@
 - Armored Draugr Corpses
 - Draugrs - Xtudo's Patches - Armored Draugr Corpses
 - Draugrs - Xtudo's Patches - Glowing Eyes
-- Riften Gate Restored
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
