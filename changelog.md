@@ -1,6 +1,6 @@
 # **1.1.0**
 <Details>
-> Will likely require a new save.
+< Will likely require a new save.
 
 **Added:**
 - Rent a Bath - a Dirt and Blood Add-On
