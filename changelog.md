@@ -6,10 +6,14 @@
 - Dynamic Follower Banter
 - Labyrinthian - Object Placement Fixes
 - Pinepeak Crypt
+- Armored Draugr Corpses
+- Draugrs - Xtudo's Patches - Armored Draugr Corpses
+- Draugrs - Xtudo's Patches - Glowing Eyes
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
 - Changed Dynamic Follower Banter's random dialogue chance from 100 to 33
+- Restored Draugrs/Skeletons glowing eyes
 
 **Fixes:**
 - Fixed night eye effect when entering Bleak Falls Barrow (source was Requiem - Enchanted Rings)
