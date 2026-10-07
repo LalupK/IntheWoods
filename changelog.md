@@ -26,6 +26,7 @@
 - Shalidor's Maze Puzzle Sound Fix
 - Tullius CTD Logger
 - Choose Your Own Arch-Mage
+- Immersive College NPCs
 
 **Updated:**
 - In the Woods - Configuration Output
