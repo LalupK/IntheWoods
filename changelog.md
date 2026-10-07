@@ -53,6 +53,7 @@
 - Character Menu
 - Horse Behaviour Improvements
   - Main file - Horse Riding Improvements
+- Remember Lockpick Angle - Updated
 
 </Details>
 
