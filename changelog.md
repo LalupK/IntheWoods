@@ -11,6 +11,7 @@
 - Changed Dynamic Follower Banter's random dialogue chance from 100 to 33
 
 **Fixes:**
+- Fixed night eye effect when entering Bleak Falls Barrow (source was Requiem - Enchanted Rings)
 
 **Removed:**
 - Multilayer Parallax Animated Dawnbreaker
