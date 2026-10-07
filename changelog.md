@@ -51,6 +51,8 @@
 - PGPatcher
 - Arondil Better Integrated
 - Character Menu
+- Horse Behaviour Improvements
+  - Main file - Horse Riding Improvements
 
 </Details>
 
