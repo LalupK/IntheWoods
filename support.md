@@ -35,6 +35,7 @@
 - ImmersiveHunting
 - TTOD_WSN_RingBinding
 - TomeTrials
+- Armored Draugr Corpses
 
 # LOD Guide
 - Hide Requiem for the Indifferent.esp
