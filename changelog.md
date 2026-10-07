@@ -17,6 +17,9 @@
   - Lux Patch
   - AE Patch
 - Havok Solver Crash Fix - SKSE
+- FSMP - Faster HDT-SMP
+- HDT-SMP Creation Backpacks
+- HDT-SMP Creation Backpacks - Elsopa Potion Patch
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
