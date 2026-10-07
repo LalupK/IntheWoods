@@ -20,6 +20,7 @@
 - FSMP - Faster HDT-SMP
 - HDT-SMP Creation Backpacks
 - HDT-SMP Creation Backpacks - Elsopa Potion Patch
+- Lalup's NPCs - Creation Club
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
