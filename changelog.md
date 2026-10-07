@@ -5,6 +5,9 @@
 - Rent a Bath - a Dirt and Blood Add-On
 - Dynamic Follower Banter
 - Labyrinthian - Object Placement Fixes
+- Pinepeak Crypt
+- Wintersun - Nordic Addon
+- Wintersun - Nordic Addon - Patch Collection
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
