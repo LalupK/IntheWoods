@@ -4,6 +4,7 @@
 **Added:**
 - Rent a Bath - a Dirt and Blood Add-On
 - Dynamic Follower Banter
+- Labyrinthian - Object Placement Fixes
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
@@ -17,6 +18,7 @@
   - Animated meshes main file
   - PBR textures main file
 - Requiem - Enchanted Rings
+- Shalidor's Maze Puzzle Sound Fix
 
 **Updated:**
 - In the Woods - Configuration Output
