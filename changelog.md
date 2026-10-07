@@ -18,6 +18,16 @@
   - PBR textures main file
 
 **Updated:**
+- In the Woods - Configuration Output
+- Lalup's Sassy Salt and Wind Retexture Hub
+- SunHelm - Individual Follower Needs
+- SkyPatcher
+- Player Character Gestures
+- Andrealletius College of Winterhold Quest Expansion + Patches
+- Andrealletius Papyrus Functions
+- LOD Refresh Bug Fix
+- Main Menu Design Replacer
+- Shadow Scene Node Crash Fix
 
 </Details>
 
