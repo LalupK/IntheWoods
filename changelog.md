@@ -5,10 +5,17 @@
 - Rent a Bath - a Dirt and Blood Add-On
 - Dynamic Follower Banter
 - Labyrinthian - Object Placement Fixes
+  - Main file
+  - Shalidors Maze Fixes Patch
 - Pinepeak Crypt
 - Armored Draugr Corpses
 - Draugrs - Xtudo's Patches - Armored Draugr Corpses
 - Draugrs - Xtudo's Patches - Glowing Eyes
+- HS Resources
+- HS Markarth - The Warrens
+  - Main file
+  - Lux Patch
+  - AE Patch
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
