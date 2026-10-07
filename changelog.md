@@ -17,6 +17,7 @@
 - Multilayer Parallax Animated Dawnbreaker
   - Animated meshes main file
   - PBR textures main file
+- Requiem - Enchanted Rings
 
 **Updated:**
 - In the Woods - Configuration Output
@@ -29,6 +30,7 @@
 - LOD Refresh Bug Fix
 - Main Menu Design Replacer
 - Shadow Scene Node Crash Fix
+- PGPatcher
 
 </Details>
 
