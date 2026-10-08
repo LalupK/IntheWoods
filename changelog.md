@@ -24,6 +24,7 @@
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
 - Dirt and Blood - MCM Helper Addon
 - Notification Filter - Remove Unwanted Notifications
+- Immersive Movement Speed
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
