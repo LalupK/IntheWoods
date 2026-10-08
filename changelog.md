@@ -36,7 +36,7 @@
 - Ivy - Whiterun Well Overhaul
 - Basic Dining Set Replacer
 - HFs - Giant Mortar
-- Dragon Priest Eye Glow
+- Humanoid Dragon Priests - Remove Eye Glow
 - Misc Tweaks - Night Eye Redux
 
 **Updated:**
