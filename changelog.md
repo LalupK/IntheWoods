@@ -27,6 +27,9 @@
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
 - Changed Dynamic Follower Banter's random dialogue chance from 100 to 33
 - Restored Draugrs/Skeletons glowing eyes
+- Disabled CBBE 3BA RaceMenu Sliders
+- Removed notifications from main menu and save intro
+- Configured intro music
 
 **Fixes:**
 - Fixed night eye effect when entering Bleak Falls Barrow (source was Requiem - Enchanted Rings)
