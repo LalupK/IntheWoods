@@ -11,7 +11,7 @@
 - Skyrim 3D Misc - PBR
 
 **Changes:**
-- Community Shaders: Enabled IBL 0.7
+- Community Shaders: Enabled IBL 0.95, 0.65 
 
 **Fixes:**
 
@@ -41,6 +41,10 @@
 - Misc Tweaks - Night Eye Redux
 
 **Updated:**
+- Grass Cache Helper NG
+- Non-Exploitable Torches SKSE
+- Havok Solver Crash Fix SKSE
+- Main Menu Design Replacer
 
 </Details>
 
