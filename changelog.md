@@ -22,6 +22,7 @@
 - HDT-SMP Creation Backpacks - Elsopa Potion Patch
 - Requiem - Boethiah's Calling - Alternate Questline
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
+- Dirt and Blood - MCM Helper Addon
 
 **Changes:**
 - Changed "Standing Stones" to "Birthsigns" in the Skyrim Unbound Reborn English translation file
@@ -43,6 +44,7 @@
 - Tullius CTD Logger
 - Choose Your Own Arch-Mage
 - Immersive College NPCs
+- Dirt and Blood - Settings Loader
 
 **Updated:**
 - In the Woods - Configuration Output
