@@ -1,3 +1,48 @@
+# **1.1.1**
+<Details>
+
+**Added:**
+- LDD - RFAOS for Advanced Skin (Female)
+- Truly Night Eye
+- Skyrim 3D Misc - Dining Set
+- Skyrim 3D Misc - Winterhold Gate
+- Skyrim 3D Misc - Giant Mortar and Pestle
+- Skyrim 3D Misc - Mammoth Cheese
+- Skyrim 3D Misc - PBR
+
+**Changes:**
+- Community Shaders: Enabled IBL 0.7
+
+**Fixes:**
+
+**Removed:**
+- FYX - The Temple of Mara
+- Riften Architectural Details
+- Riften Canals Rounded - by Pfuscher
+- Riften Canals Rounded - Lux Orbis Patch
+- Angeline's Aromatics Rework
+- Bits and Pieces Rework
+- Bryling's House Rework
+- Erikur's House Rework
+- Proudspire Manor Rework
+- Radiant Raiment Rework
+- The Winking Skeever Rework
+- Vittoria Vici's House Rework
+- Improved Solitude Walls
+- Improved Solitude Windmill
+- Improved Theater
+- Whiterun Railings SMIMed
+- FYX - 3D Whiterun Guard Towers
+- Ivy - Whiterun Well Overhaul
+- Basic Dining Set Replacer
+- HFs - Giant Mortar
+- Dragon Priest Eye Glow
+- Misc Tweaks - Night Eye Redux
+
+**Updated:**
+
+</Details>
+
 # **1.1.0**
 <Details>
 
