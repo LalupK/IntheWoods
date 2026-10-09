@@ -4,7 +4,6 @@
 **Added:**
 - LDD - RFAOS for Advanced Skin (Female)
 - Skyrim 3D Misc - Dining Set
-- Skyrim 3D Misc - Winterhold Gate
 - Skyrim 3D Misc - Giant Mortar and Pestle
 - Skyrim 3D Misc - Mammoth Cheese
 - Skyrim 3D Misc - PBR
