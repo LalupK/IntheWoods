@@ -34,7 +34,7 @@ Space Required: 368GB Total, 148GB Download.
 | CPU | I5-10600
 | RAM | 16GB DDR4
 | Storage | SSD
-| GPU | RTX 3060 (8GB VRAM)
+| GPU | RTX 3070 (8GB VRAM)
 
 | Component  | Recommended for 1440p |
 | :----------:|:--------------------:|
