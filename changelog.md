@@ -11,8 +11,6 @@
 **Changes:**
 - Community Shaders: Enabled IBL 0.95, 0.65 
 
-**Fixes:**
-
 **Removed:**
 - FYX - The Temple of Mara
 - Riften Architectural Details
@@ -41,6 +39,7 @@
 - Grass Cache Helper NG
 - Non-Exploitable Torches SKSE
 - Havok Solver Crash Fix SKSE
+- Main Menu Design Replacer
 
 </Details>
 
