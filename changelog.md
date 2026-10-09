@@ -41,7 +41,6 @@
 - Grass Cache Helper NG
 - Non-Exploitable Torches SKSE
 - Havok Solver Crash Fix SKSE
-- Main Menu Design Replacer
 
 </Details>
 
