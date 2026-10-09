@@ -1,3 +1,19 @@
+# **1.1.2**
+<Details>
+
+**Added:**
+
+**Changes:**
+
+**Fixes:**
+- Removed duplicate form IDs from Requiem for the Indifferent
+
+**Removed:**
+
+**Updated:**
+
+</Details>
+
 # **1.1.1**
 <Details>
 
