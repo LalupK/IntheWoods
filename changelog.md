@@ -3,7 +3,6 @@
 
 **Added:**
 - LDD - RFAOS for Advanced Skin (Female)
-- Truly Night Eye
 - Skyrim 3D Misc - Dining Set
 - Skyrim 3D Misc - Winterhold Gate
 - Skyrim 3D Misc - Giant Mortar and Pestle
@@ -38,7 +37,6 @@
 - HFs - Giant Mortar
 - Humanoid Dragon Priests - Remove Eye Glow
 - Humanoid Dragon Priests - Remove Ash Pile
-- Misc Tweaks - Night Eye Redux
 
 **Updated:**
 - Grass Cache Helper NG
