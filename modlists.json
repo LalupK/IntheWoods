@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/image.webp",
       "readme": "https://github.com/LalupK/IntheWoods/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/In the Woods.wabbajack_604c5c8a-e496-4d73-b097-b6e73be556c1",
+      "download": "https://authored-files.wabbajack.org/In the Woods.wabbajack_fedc3d25-8f41-43b4-8a04-009ba53f9915",
       "machineURL": "LalupKIntheWoods",
       "discordURL": "https://discord.gg/mJDkWtmt53",
       "websiteURL": "https://github.com/LalupK/IntheWoods",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "BvfSTjky2WE=",
-      "Size": 843735685,
-      "NumberOfArchives": 3258,
-      "SizeOfArchives": 159002658735,
-      "NumberOfInstalledFiles": 298852,
-      "SizeOfInstalledFiles": 235182021003,
-      "TotalSize": 394184679738
+      "Hash": "oiA80YOxM2A=",
+      "Size": 831402609,
+      "NumberOfArchives": 3240,
+      "SizeOfArchives": 159409185004,
+      "NumberOfInstalledFiles": 298677,
+      "SizeOfInstalledFiles": 235554730667,
+      "TotalSize": 394963915671
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-10-08T04:46:28.1071107Z",
+    "dateUpdated": "2026-10-09T05:17:15.6780092Z",
     "repositoryName": ""
   }
 ]
