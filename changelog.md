@@ -1,16 +1,13 @@
 # **1.1.2**
 <Details>
 
-**Added:**
-
 **Changes:**
 - Downgraded Heavy Armory to v6.1.6
 
 **Fixes:**
 - Removed duplicate form IDs from Requiem for the Indifferent
   - Caused by the bound dread weapons from Noxcrab's Magic Redone patch for Heavy Armory
-
-**Removed:**
+- Removed outdated config file for Main Menu Design Replacer
 
 **Updated:**
 - Player Character Gestures
