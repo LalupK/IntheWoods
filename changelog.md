@@ -4,13 +4,19 @@
 **Added:**
 
 **Changes:**
+- Downgraded Heavy Armory to v6.1.6
 
 **Fixes:**
 - Removed duplicate form IDs from Requiem for the Indifferent
+  - Caused by the bound dread weapons from Noxcrab's Magic Redone patch for Heavy Armory
 
 **Removed:**
 
 **Updated:**
+- Player Character Gestures
+- LDD - RFAOS for Advanced Skin (Female)
+  - Is not being used; waiting for Advanced Skin.
+- Havok Solver Crash Fix - SKSE
 
 </Details>
 
