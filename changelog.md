@@ -1,13 +1,11 @@
 # **1.1.2**
 <Details>
 
-**Changes:**
-- Downgraded Heavy Armory to v6.1.6
-
 **Fixes:**
 - Removed duplicate form IDs from Requiem for the Indifferent
   - Caused by the bound dread weapons from Noxcrab's Magic Redone patch for Heavy Armory
 - Removed outdated config file for Main Menu Design Replacer
+- Updated Noxcrab's Heavy Armory patches so that the use the correct keywords
 
 **Updated:**
 - In the Woods - Configuration Output
