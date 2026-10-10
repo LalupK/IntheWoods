@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/image.webp)
 
-<p align="center">Version 1.1.1 ~ by Lalup</p>
+<p align="center">Version 1.1.2 ~ by Lalup</p>
 
 # Overview
 In the Woods is built around [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), overhauling Skyrim to create a challenging, unlevelled world with meaningful choices. If you have never played [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888) before, I highly recommend you watch the introductory [video](https://www.youtube.com/watch?v=fG7D8meR0cY) by [Greed](https://www.youtube.com/@GreedGaming01). In the Woods contains the latest version of [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888), complemented by [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342), [Sunny's](https://www.nexusmods.com/profile/SUNNY333456/mods?gameId=1704) [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633), and [Noxcrab's](https://www.nexusmods.com/profile/Noxcrab/mods?gameId=1704) [Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591) and [Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302). These mods provide the foundation for a slower, more deliberate approach to Skyrim, where preparation, character development, and understanding the world are often more important than simply becoming stronger.
