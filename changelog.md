@@ -54,7 +54,6 @@
 - Basic Dining Set Replacer
 - HFs - Giant Mortar
 - Humanoid Dragon Priests - Remove Eye Glow
-- Humanoid Dragon Priests - Remove Ash Pile
 
 **Updated:**
 - Grass Cache Helper NG
