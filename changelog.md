@@ -16,7 +16,7 @@
 - Player Character Gestures
 - LDD - RFAOS for Advanced Skin (Female)
   - Is not being used; waiting for Advanced Skin.
-- Havok Solver Crash Fix - SKSE
+- Havok Solver Crash Fix SKSE
 
 </Details>
 
