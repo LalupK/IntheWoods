@@ -7,6 +7,9 @@
 - Removed outdated config file for Main Menu Design Replacer
 - Updated Noxcrab's Heavy Armory patches so that the use the correct keywords
 
+**Removed:**
+- Armory Extended - Saints and Seducers
+
 **Updated:**
 - In the Woods - Configuration Output
 - Player Character Gestures
