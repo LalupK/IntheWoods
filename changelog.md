@@ -10,6 +10,7 @@
 - Removed outdated config file for Main Menu Design Replacer
 
 **Updated:**
+- In the Woods - Configuration Output
 - Player Character Gestures
 - LDD - RFAOS for Advanced Skin (Female)
   - Is not being used; waiting for Advanced Skin.
