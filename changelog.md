@@ -1,3 +1,14 @@
+# **1.1.3**
+<Details>
+
+**Fixes:**
+
+**Removed:**
+
+**Updated:**
+
+</Details>
+
 # **1.1.2**
 <Details>
 
