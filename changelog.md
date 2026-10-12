@@ -2,7 +2,7 @@
 <Details>
 
 **Fixes:**
-
+- Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
 **Removed:**
 
 **Updated:**
