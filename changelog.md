@@ -19,6 +19,7 @@
 - Companions at Mirmulnir
 - Assorted Behavior Fixes
 - Ish's Respec Mod
+- Magic Fixes and Tweaks SKSE
 
 **Updated:**
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
