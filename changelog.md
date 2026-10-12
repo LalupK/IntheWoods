@@ -1,12 +1,28 @@
 # **1.1.3**
 <Details>
 
+**Added:**
+- Environs and Forsworn Conspiracy Quest Expansion Patch
+- Taller Posts for Farmhouse Walkways
+- Skyland - Happy Little Trees Bark - PBR
+
 **Fixes:**
 - Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
 
 **Removed:**
 
 **Updated:**
+- Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
+- Havok Solver Crash Fix SKSE
+- Andrealletius College of Winterhold Quest Expansion
+- Happy Little Trees PBR
+- Thieves Guild Alternative Endings
+- Main Menu Design Replacer
+- Dynamic Things Alternative - BOS
+- Simplicity of Sea
+- FLICK - Fuzz's Legally Intelligible Core Kit
+- Magic Fixes and Tweaks SKSE
+- Run For Your Lives
 
 </Details>
 
