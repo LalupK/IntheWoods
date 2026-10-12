@@ -6,6 +6,9 @@
 - Taller Posts for Farmhouse Walkways
 - Skyland - Happy Little Trees Bark - PBR
 
+**Changes:**
+- Doubled the amount of perk points you receive when starting a character (3-6)
+
 **Fixes:**
 - Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
 
