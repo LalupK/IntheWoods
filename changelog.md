@@ -10,6 +10,12 @@
 - Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
 
 **Removed:**
+- Shavings of Sawdust - PBR
+- Shavings of Sawdust - Happy Little Trees Patch
+- Happy Little Trees - Pines Reduced Saturation Alt Snow Colour 1
+- Companions at Mirmulnir
+- Assorted Behavior Fixes
+- Ish's Respec Mod
 
 **Updated:**
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
