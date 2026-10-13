@@ -7,6 +7,7 @@
 - Skyland - Happy Little Trees Bark - PBR
 - Solstheim without Miraak
 - Choose Your Own Arch-Mage
+- Word Walls without Winterhold
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
