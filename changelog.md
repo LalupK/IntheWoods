@@ -24,7 +24,7 @@
 - Undeath - Lich Can Fly (With Collisions)
 - Apocryphal Library and Undeath Remastered Integration
 - Extended Cut Saints and Seducers - Undeath
-- Requiem - Undeath
+- ~~Requiem - Undeath~~ create your own patch
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
