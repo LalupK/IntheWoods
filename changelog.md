@@ -10,7 +10,6 @@
 - Word Walls without Winterhold
 - Skyking Unique Signs - PBR
 - Skyking Signs - PBR
-
 - Undeath Remastered
 - Undeath - Classical Lichdom
 - Undeath - XPMSSE - Strange Runes - Skeleton Patch
