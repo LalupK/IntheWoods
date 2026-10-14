@@ -8,6 +8,7 @@
 - Solstheim without Miraak
 - Choose Your Own Arch-Mage
 - Word Walls without Winterhold
+- Requiem - Food Tweaks
 - Skyking Unique Signs - PBR
 - Skyking Signs - PBR
 - Undeath Remastered
