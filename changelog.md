@@ -10,6 +10,7 @@
 - Word Walls without Winterhold
 - Requiem - Food Tweaks
 - Skyking Unique Signs - PBR
+- Skyking Signs
 - Skyking Signs - PBR
 - Undeath Remastered
 - Undeath - Classical Lichdom
