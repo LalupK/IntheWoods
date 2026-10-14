@@ -11,6 +11,22 @@
 - Skyking Unique Signs - PBR
 - Skyking Signs - PBR
 
+- Undeath Remastered
+- Undeath - Classical Lichdom
+- Undeath - XPMSSE - Strange Runes - Skeleton Patch
+- Undeath - Xtudo's Patches - Draugrs - Remastered and Classical
+- Undeath - Xtudo's Patches - Dragon Priests Retexture - Remastered and Classical
+- Undeath - Xtudo's Patches - Skeleton Replacer HD - Remastered and Classical
+- Sensible Undeath Prerequisite - No Level
+- Undeath - Guest of Volkihar
+- Undeath - Humanoid Dragon Priests
+- Undeath - Humanoid Dragon Priests - ICH
+- Undeath - Immersive Mountain Pass
+- Undeath - Lich Can Fly (With Collisions)
+- Apocryphal Library and Undeath Remastered Integration
+- Extended Cut Saints and Seducers - Undeath
+- Requiem - Undeath
+
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
 
