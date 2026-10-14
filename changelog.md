@@ -8,6 +8,8 @@
 - Solstheim without Miraak
 - Choose Your Own Arch-Mage
 - Word Walls without Winterhold
+- Skyking Unique Signs - PBR
+- Skyking Signs - PBR
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
@@ -39,9 +41,12 @@
 - Run For Your Lives
 - Fires and Embers Clipping Fix
 - Rain Extinguishes Fires
-- Skyking Signs
 - moreHUD
+- moreHUD - Inventory Edition
 - Lightened Skyrim
+- Better Optimized Skyrim Meshes - Riften
+- BodySlide and Outfit Studio
+- Security Overhaul - Some More Locks
 
 </Details>
 
