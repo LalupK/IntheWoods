@@ -54,7 +54,6 @@
 - Dynamic Things Alternative - BOS
 - Simplicity of Sea
 - FLICK - Fuzz's Legally Intelligible Core Kit
-- Magic Fixes and Tweaks SKSE
 - Run For Your Lives
 - Fires and Embers Clipping Fix
 - Rain Extinguishes Fires
