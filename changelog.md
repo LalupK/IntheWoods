@@ -36,6 +36,7 @@
    - CC Necro Patch
    - CC Fishing Patch
 - Shadow Fixes SKSE
+- Kinda Believable Weapons - Realistic Creation Club Weapons
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
