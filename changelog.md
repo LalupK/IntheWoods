@@ -24,9 +24,17 @@
 - Undeath - Lich Can Fly (With Collisions)
 - Apocryphal Library and Undeath Remastered Integration
 - Extended Cut Saints and Seducers - Undeath
+- Undeath - Voiced Temple Of Arkay
 - ~~Requiem - Undeath~~ create your own patch
 - Improved Camera - Patch Collection
 - Ride Along - Horse Riding Companion
+- Atlas Map Markers Patches BETA
+- CC Gallows Hall - Tweaks and Enhancements
+   - Main File
+   - Undeath Patch
+   - Wintersun Patch
+   - CC Necro Patch
+   - CC Fishing Patch
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
@@ -52,6 +60,7 @@
 - Andrealletius College of Winterhold Quest Expansion - Patches
 - Happy Little Trees PBR
 - Thieves Guild Alternative Endings
+- Thieves Guild Alternative Endings - Wintersun Patch
 - Main Menu Design Replacer
 - Dynamic Things Alternative - BOS
 - Simplicity of Sea
@@ -65,6 +74,8 @@
 - Better Optimized Skyrim Meshes - Riften
 - BodySlide and Outfit Studio
 - Security Overhaul - Some More Locks
+- Labyrinthian - Object Placement Fixes
+- Merethic Grasslands PBR
 
 </Details>
 
