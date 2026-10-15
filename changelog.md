@@ -37,6 +37,8 @@
    - CC Fishing Patch
 - Shadow Fixes SKSE
 - Kinda Believable Weapons - Realistic Creation Club Weapons
+- Reticle Arcs
+- Reticle Arcs - Breath Arc
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
@@ -54,6 +56,9 @@
 - Assorted Behavior Fixes
 - Ish's Respec Mod
 - Magic Fixes and Tweaks SKSE
+- Casting Bar
+- Oxygen Meter 2
+- Bubble Oxygen Meter 2
 
 **Updated:**
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
