@@ -76,6 +76,7 @@
 - Security Overhaul - Some More Locks
 - Labyrinthian - Object Placement Fixes
 - Merethic Grasslands PBR
+- PGPatcher
 
 </Details>
 
