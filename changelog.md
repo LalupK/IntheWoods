@@ -26,9 +26,12 @@
 - Extended Cut Saints and Seducers - Undeath
 - ~~Requiem - Undeath~~ create your own patch
 - Improved Camera - Patch Collection
+- Ride Along - Horse Riding Companion
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
+- Skyrim Souls is no longer an optional mod
+- Frostfall consistency tweaks for Requiem - Magic Redone
 
 **Fixes:**
 - Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
