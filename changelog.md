@@ -89,6 +89,8 @@
 - Labyrinthian - Object Placement Fixes
 - Merethic Grasslands PBR
 - PGPatcher
+- CC Tundra Homestead - Tweaks and Enhancements
+- CC Myrwatch - Tweaks and Enhancements
 
 </Details>
 
