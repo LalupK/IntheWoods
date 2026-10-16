@@ -45,6 +45,7 @@
 - Doubled the amount of perk points you receive when starting a character (3-6)
 - Skyrim Souls is no longer an optional mod - has been move to 'EARLY LOADERS - SURVIVAL'
 - Frostfall consistency tweaks for Requiem - Magic Redone
+- Removed wild edits from Undeath.esp
 
 **Fixes:**
 - Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
