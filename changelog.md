@@ -40,6 +40,9 @@
 - Reticle Arcs
 - Reticle Arcs - Breath Arc
 - 3D Whiterun Trellis Expansion - Optimized Meshes
+- Buy A Round In Inns
+- Immersive Speechcraft
+- Immersive Speechcraft - Alternative Dialogue
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
