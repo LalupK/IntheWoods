@@ -39,6 +39,7 @@
 - Kinda Believable Weapons - Realistic Creation Club Weapons
 - Reticle Arcs
 - Reticle Arcs - Breath Arc
+- 3D Whiterun Trellis Expansion - Optimized Meshes
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
