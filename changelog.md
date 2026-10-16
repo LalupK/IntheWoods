@@ -25,7 +25,7 @@
 - Apocryphal Library and Undeath Remastered Integration
 - Extended Cut Saints and Seducers - Undeath
 - Undeath - Voiced Temple Of Arkay
-- ~~Requiem - Undeath~~ create your own patch
+- Requiem - Undeath
 - Improved Camera - Patch Collection
 - Ride Along - Horse Riding Companion
 - Atlas Map Markers Patches BETA
