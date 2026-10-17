@@ -96,6 +96,8 @@
 - PGPatcher
 - CC Tundra Homestead - Tweaks and Enhancements
 - CC Myrwatch - Tweaks and Enhancements
+- Follower Dialogue Expansion - Aela the Huntress
+- Embers XD
 
 </Details>
 
