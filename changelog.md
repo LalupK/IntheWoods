@@ -33,7 +33,6 @@
    - Main File
    - Undeath Patch
    - Wintersun Patch
-   - CC Necro Patch
    - CC Fishing Patch
 - Shadow Fixes SKSE
 - Kinda Believable Weapons - Realistic Creation Club Weapons
