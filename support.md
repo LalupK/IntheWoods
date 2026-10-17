@@ -34,6 +34,8 @@
 - TomeTrials
 - Armored Draugr Corpses
 - HS
+- Book Covers Skyrim - Lost Library
+- LB_ApocryphaBooks
 
 # LOD Guide
 - Hide Requiem for the Indifferent.esp
