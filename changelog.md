@@ -63,6 +63,7 @@
 - Casting Bar
 - Oxygen Meter 2
 - Bubble Oxygen Meter 2
+- Lost Paladin of Fort Icemoth - Chrysamere Redone
 
 **Updated:**
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
