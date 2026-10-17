@@ -1,6 +1,7 @@
 # Bugs
 - Headman's Cleaver uses glaive animations - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
-- Randomly receiving 50 gold while exploring the Rift - enable papyrus logging and investigate 
+- Randomly receiving 50 gold while exploring the Rift - enable papyrus logging and investigate
+- Lux has a broken patch for The Cause
 
 # Immersive Equipment Displays
 1. Remove Torch
