@@ -52,7 +52,7 @@
 - Frostfall consistency tweaks for Requiem - Magic Redone
 - Removed wild edits from Undeath.esp
 - Disabled the spawning of gamblers
-- Decreased Frostfall's Exposure Rate by 0.1
+- Decreased Frostfall's Exposure Rate from 1.0 to 0.9
 
 **Fixes:**
 - Fixed Nightingale Hood from Thieves Guild Alternate Endings and Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
