@@ -53,7 +53,6 @@
 - CrashLogger
 - DiscordRichPresence
 - MCM Helper
-- TulliusCTDLogger
 - CommunityShaders
 - Interface Separator (**EXCEPT** SKYUI - AIO Survival, Simply Order Summons, Dream Counter, DAK)
 
