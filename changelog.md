@@ -4,7 +4,7 @@
 **Added:**
 - Environs and Forsworn Conspiracy Quest Expansion Patch
 - Taller Posts for Farmhouse Walkways
-- Skyland - Happy Little Trees Bark - PBR
+- ~~Skyland - Happy Little Trees Bark - PBR~~
 - Solstheim without Miraak
 - Choose Your Own Arch-Mage
 - Word Walls without Winterhold
