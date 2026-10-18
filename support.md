@@ -46,7 +46,7 @@
 - Disable Tamriel Extend.
 - Enable Skyland PBR and run TexGen and DynDolod.
 - DynDolod (Medium; Tree Mesh Rules LOD4/Level 0, LOD8/Billboard 4, LOD16/Billboard 1; Crown/Trunk/FlatTrunk Brightness 0.666).
-> You only need to disable Skyland PBR when you're going to generate the terrain LOD.
+> You only need to disable Skyland PBR when generating terrain LOD.
 
 # LOD Settings
 ![LOD4](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD4.png)
