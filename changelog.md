@@ -47,6 +47,7 @@
 - Tavern Games - Battle of Heroes - Forgotten Myths Retexture
 - Civil War Champions - Proper Male Weighting
 - Dog Bleedout Animation
+- First Person FOV and Tween Menu Fix SKSE
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
