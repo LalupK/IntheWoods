@@ -45,7 +45,7 @@
 - Run xLodGen and generate the terrain LOD (Brightness: 5, Contrast: 40, Gamma: 1.00).
 - Disable Tamriel Extend.
 - Enable Skyland PBR and run TexGen and DynDOLOD.
-  - DynDOLOD (Medium; Tree Mesh Rules LOD4/Level 0, LOD8/Billboard 4, LOD16/Billboard 1; Crown/Trunk/FlatTrunk Brightness 0.666).
+  - DynDOLOD (Medium; Tree Mesh Rules LOD4/Level 0, LOD8/Billboard 4, LOD16/Billboard 1; Crown/Trunk/FlatTrunk Brightness 0.7).
 > You only need to disable Skyland PBR when generating terrain LOD.
 
 # LOD Settings
