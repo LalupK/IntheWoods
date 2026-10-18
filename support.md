@@ -53,6 +53,7 @@
 ![LOD8](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD8.png)
 ![LOD16](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD16.png)
 ![LOD32](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD32.png)
+![DynDOLOD](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/DynDOLOD.png)
 
 # Grass Cache (mods to disable)
 - SkyUI
