@@ -40,7 +40,6 @@
 - LB_ApocryphaBooks
 
 # LOD Guide
-- Hide Requiem for the Indifferent.esp
 - Disable Skyland PBR but keep Skyland AIO enabled.
 - Enable Tamriel Extend.
 - Run xLodGen and generate the terrain LOD (Brightness: 5, Contrast: 40, Gamma: 1.00).
