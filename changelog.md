@@ -46,6 +46,7 @@
 - Tavern Games - Alt Camera Patch and No Silent Voices Fixes
 - Tavern Games - Battle of Heroes - Forgotten Myths Retexture
 - Civil War Champions - Proper Male Weighting
+- Dog Bleedout Animation
 
 **Changes:**
 - Doubled the amount of perk points you receive when starting a character (3-6)
