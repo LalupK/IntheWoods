@@ -49,10 +49,10 @@
 > You only need to disable Skyland PBR when you're going to generate the terrain LOD.
 
 # LOD Settings
-[LOD4](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD4.png)
-[LOD8](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD8.png)
-[LOD16](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD16.png)
-[LOD32](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD32.png)
+![LOD4](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD4.png)
+![LOD8](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD8.png)
+![LOD16](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD16.png)
+![LOD32](https://raw.githubusercontent.com/LalupK/IntheWoods/refs/heads/main/LOD32.png)
 
 # Grass Cache (mods to disable)
 - SkyUI
