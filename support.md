@@ -2,6 +2,8 @@
 - Headman's Cleaver uses glaive animations - [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
 - Randomly receiving 50 gold while exploring the Rift - enable papyrus logging and investigate
 - Lux has a broken patch for The Cause
+- Actors will sometimes not fire crossbows until staggered
+- Missing branch textures for campfires [bug report](https://www.nexusmods.com/skyrimspecialedition/mods/181860?tab=bugs)
 
 # Immersive Equipment Displays
 1. Remove Torch
