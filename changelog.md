@@ -70,6 +70,7 @@
 - Oxygen Meter 2
 - Bubble Oxygen Meter 2
 - Lost Paladin of Fort Icemoth - Chrysamere Redone
+- Weapon Animation (Dawnbreaker)
 
 **Updated:**
 - Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
