@@ -1,6 +1,9 @@
 # **1.2.1**
 <Details>
 
+**Changes:**
+- Enabled Real Galaxy.esp to override changes from Moons and Stars - Sky Overhaul SKSE because the author recommends it
+
 **Fixes:**
 - Compiled against Anniversary Edition 1.7.104
 
