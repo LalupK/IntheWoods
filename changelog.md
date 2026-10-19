@@ -2,7 +2,7 @@
 <Details>
 
 **Fixes:**
-- Compiled with Skyrim Version 1.7.104
+- Compiled against Anniversary Edition 1.7.104
 
 **Updated:**
 - Divines Prayer Animations
