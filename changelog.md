@@ -9,6 +9,7 @@
 - Water Collision Crash Fix NG
 - Dog Bleedout Animation
 - Follower Dialogue Expansion - Aela the Huntress
+- Realistic Galaxy
 
 </Details>
 
