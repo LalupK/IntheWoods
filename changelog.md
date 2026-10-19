@@ -10,6 +10,7 @@
 - Dog Bleedout Animation
 - Follower Dialogue Expansion - Aela the Huntress
 - Realistic Galaxy
+- PGPatcher
 
 </Details>
 
