@@ -14,6 +14,8 @@
 - Follower Dialogue Expansion - Aela the Huntress
 - Realistic Galaxy
 - PGPatcher
+- In the Woods - Configuration Output
+- In the Woods - Nemesis Output
 
 </Details>
 
