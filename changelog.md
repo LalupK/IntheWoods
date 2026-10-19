@@ -1,3 +1,17 @@
+# **1.2.2**
+<Details>
+
+**Fixes:**
+- Compiled with Skyrim Version 1.7.104
+
+**Updated:**
+- Divines Prayer Animations
+- Water Collision Crash Fix NG
+- Dog Bleedout Animation
+- Follower Dialogue Expansion - Aela the Huntress
+
+</Details>
+
 # **1.2.0**
 <Details>
 
