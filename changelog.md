@@ -1,6 +1,10 @@
 # **1.2.2**
 <Details>
 
+**Added:**
+- Shavings of Sawdust
+- Shavings of Sawdust - Happy Little Trees Patch
+
 **Changes:**
 
 **Fixes:**
@@ -9,6 +13,9 @@
 - Woodcutting Tweaks
 
 **Updated:**
+- Core Impact Framework
+- PGPatcher
+- Nordic Farmfield Stonewalls
 
 </Details>
 
