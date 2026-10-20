@@ -1,3 +1,17 @@
+# **1.2.2**
+<Details>
+
+**Changes:**
+
+**Fixes:**
+
+**Removed:**
+- Woodcutting Tweaks
+
+**Updated:**
+
+</Details>
+
 # **1.2.1**
 <Details>
 
