@@ -4,6 +4,7 @@
 **Added:**
 - Shavings of Sawdust
 - Shavings of Sawdust - Happy Little Trees Patch
+- Rudy Red Mountain - Irregular Glow
 
 **Changes:**
 
