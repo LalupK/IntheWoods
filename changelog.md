@@ -4,6 +4,7 @@
 **Added:**
 - Shavings of Sawdust
 - Shavings of Sawdust - Happy Little Trees Patch
+- Shavings of Sawdust - PBR
 - Rudy Red Mountain - Irregular Glow
 - Overly detailed Argonian Maws - ACE Patch
 - Word Walls without Werewolves - Dustman's Cairn and Ysgramor's Tomb for Non-Companions
