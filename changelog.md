@@ -11,6 +11,7 @@
 
 **Changes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
+- Minor loadorder changes
 
 **Fixes:**
 
