@@ -7,6 +7,7 @@
 - Rudy Red Mountain - Irregular Glow
 - Overly detailed Argonian Maws - ACE Patch
 - Word Walls without Werewolves - Dustman's Cairn and Ysgramor's Tomb for Non-Companions
+- Lingering Subtitle - Engine Fix
 
 **Changes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
@@ -15,6 +16,7 @@
 
 **Removed:**
 - Woodcutting Tweaks
+- Lingering Subtitles Fix
 
 **Updated:**
 - Core Impact Framework
