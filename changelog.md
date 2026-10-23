@@ -18,6 +18,7 @@
 **Removed:**
 - Woodcutting Tweaks
 - Lingering Subtitles Fix
+- Dustman's Cairn Farkas Scene Fix
 
 **Updated:**
 - Core Impact Framework
