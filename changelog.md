@@ -5,8 +5,11 @@
 - Shavings of Sawdust
 - Shavings of Sawdust - Happy Little Trees Patch
 - Rudy Red Mountain - Irregular Glow
+- Overly detailed Argonian Maws - ACE Patch
+- Word Walls without Werewolves - Dustman's Cairn and Ysgramor's Tomb for Non-Companions
 
 **Changes:**
+- Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
 
 **Fixes:**
 
@@ -17,6 +20,23 @@
 - Core Impact Framework
 - PGPatcher
 - Nordic Farmfield Stonewalls
+- GHTE - Undeath Patch
+- Severin Manor Has A Price
+- Assorted Mesh Fixes
+- Ride Along - Horse Riding Companion
+- Destroy The Thieves Guild - A Thieves Guild Plus Plus Offshoot
+- FLICK - Fuzz's Legally Intelligible Core Kit
+- Argonian Creation Extended
+- CBBE 3BA Vanilla Outfits Redone
+- Nordic Farmfield Stonewalls
+- Object Categorization Framework - Some KID Patches - I4 - OCF
+- Varona Nelas Lives Longer - Reluctant Steward Delayed
+- Solstheim without Miraak - Dragonborn DLC for Non-Dragonborn
+- Usable Campfires
+- Simple Follower Framework
+- Core Impact Framework
+- Here We Go Again - World Interactions
+- Reticle Arcs
 
 </Details>
 
