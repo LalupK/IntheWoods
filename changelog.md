@@ -42,6 +42,7 @@
 - Core Impact Framework
 - Here We Go Again - World Interactions
 - Reticle Arcs
+- Nordic Stonewalls Complex Material and PBR
 
 </Details>
 
