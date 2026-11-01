@@ -24,6 +24,8 @@
 - Stendarr's Hammer - PBR Redone
 - Skeleton Replacer HD - Mesh Patches for Various Mods
   - Siege at Icemoth - Skeleton Replacer HD Patch
+- Northern Maiden Crew Are Alive
+  - Northern Maiden Crew Are Alive - AI Overhaul Patch
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
@@ -39,6 +41,8 @@
 - Goat Leg Remade (Fluffy)
 - Unlocked Weapon Rotation
 - Bash Bug Fix
+- CBBE 3BA Vanilla Outfits Redone
+  - CBBE 3BA Vanilla Outfits Redone - True Fluff - CC Xavbio's Orcish Retexture Hotfix
 
 **Updated:**
 - Core Impact Framework
@@ -52,6 +56,8 @@
 - FLICK - Fuzz's Legally Intelligible Core Kit
 - Argonian Creation Extended
 - CBBE 3BA Vanilla Outfits Redone
+  - CBBE 3BA Vanilla Outfits Redone - True Fluff
+  - VOR Fluffy Textures - Faultier's PBR
 - Nordic Farmfield Stonewalls
 - Object Categorization Framework - Some KID Patches - I4 - OCF
 - Varona Nelas Lives Longer - Reluctant Steward Delayed
@@ -62,6 +68,47 @@
 - Here We Go Again - World Interactions
 - Reticle Arcs
 - Nordic Stonewalls Complex Material and PBR
+- Northern Maiden Crew Are Alive
+- Embers XD - PBR
+- Crash Logger SSE AE VR - PDB Support
+- Container Distribution Framework
+- Missives - Blacklist Expanded
+- SKSE Menu Framework
+- No Grass In Objects
+- Model Swapper
+- Draw Fix - Move Equip Animation Fix
+- Vigilant Enforcer Reforged - PBR
+- Civil War Champions Reforged - PBR
+- Realistic PBR Footprints
+- Reticle Arcs
+- Andrealletius' Exploit Fixes
+- Skyrim Cave Fixes
+  - Skyrim Cave Fixes
+  - Skyrim Cave Fixes - Patch Hub
+- Divine Crusader Reforged - PBR
+- Exit Sneak On Sprint
+- Spell Knight Armor Reforged - PBR
+- Region Weather - Engine Fix
+- Inventory Interface Information Injector Improved
+- Simple Follower Framework
+- Alternative Armors Reforged - PBR
+- Skyrim Unbound Reborn - Black Starting Room
+- Save and Load Accelerator for SKSE Cosaves
+- Smart Training SKSE
+- No Lockpick Activate (SKSE) - Updated
+- Remember Lockpick Angle - Updated
+- Aela Doesn't Approach If You Don't Help - The Companions Giant Fight Scene Tweak
+- Andrealletius' Papyrus Functions
+- Texture Downscaler
+- CC Myrwatch - Tweaks and Enhancements
+- Shadow Scene Node Crash Fix
+- Favor Quests Separated
+  - Favor Quests Separated
+  - Favor Quests Seperated - USSEP Patch
+- The Heart of Dibella - Quest Expansion
+- Immersive Diseases - HIMBO - TNG - 3BA - SeamFix
+- Horizon Fix
+- Persistent Favorites
 
 </Details>
 
