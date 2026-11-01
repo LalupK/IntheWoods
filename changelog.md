@@ -13,6 +13,7 @@
 **Changes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
 - Minor loadorder changes
+- Jagged Crown (Lore Gameplay Tweaks) - fixed shout cooldown and reduced enchantment strengths
 
 **Fixes:**
 
