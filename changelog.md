@@ -9,6 +9,16 @@
 - Overly detailed Argonian Maws - ACE Patch
 - Word Walls without Werewolves - Dustman's Cairn and Ysgramor's Tomb for Non-Companions
 - Lingering Subtitle - Engine Fix
+- 1st Person Equip Pitch Fix
+- Native Unequipping Staves Fix
+- Native Looping Equip Animations Fix
+- Whiterun Basement Tiling Fix - Jorrvaskr - Dragonsreach - Honningbrew Meadery
+- Follower Dialogue Expansion - Valerica
+- Occlusion Limit Fix
+- Horker Meat - PBR
+- Venison Meat - PBR
+- Goat Meat - PBR
+- Horse Meat - PBR
 
 **Changes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
@@ -21,6 +31,10 @@
 - Woodcutting Tweaks
 - Lingering Subtitles Fix
 - Dustman's Cairn Farkas Scene Fix
+- HFs - Horker Meat
+- HFs - Horse Meat Update
+- Goat Leg Remade (Fluffy)
+- Unlocked Weapon Rotation
 
 **Updated:**
 - Core Impact Framework
