@@ -21,6 +21,8 @@
 - Horse Meat - PBR
 - Bash Bug Fix - Behavior Version
 - No More Sliding Paws - Creature Idle Animation Fixes
+- Stendarr's Hammer - PBR Redone
+- Siege at Icemoth - Skeleton Replacer HD Patch
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
