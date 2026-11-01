@@ -19,13 +19,13 @@
 - Venison Meat - PBR
 - Goat Meat - PBR
 - Horse Meat - PBR
+- Bash Bug Fix - Behavior Version
+- No More Sliding Paws - Creature Idle Animation Fixes
 
-**Changes:**
+**Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
 - Minor loadorder changes
 - Jagged Crown (Lore Gameplay Tweaks) - fixed shout cooldown and reduced enchantment strengths
-
-**Fixes:**
 
 **Removed:**
 - Woodcutting Tweaks
@@ -35,6 +35,7 @@
 - HFs - Horse Meat Update
 - Goat Leg Remade (Fluffy)
 - Unlocked Weapon Rotation
+- Bash Bug Fix
 
 **Updated:**
 - Core Impact Framework
