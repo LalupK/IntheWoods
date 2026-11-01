@@ -22,6 +22,7 @@
 - Bash Bug Fix - Behavior Version
 - No More Sliding Paws - Creature Idle Animation Fixes
 - Stendarr's Hammer - PBR Redone
+- Skeleton Replacer HD - Mesh Patches for Various Mods
 - Siege at Icemoth - Skeleton Replacer HD Patch
 
 **Changes & Fixes:**
