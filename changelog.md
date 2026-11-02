@@ -109,6 +109,8 @@
 - Immersive Diseases - HIMBO - TNG - 3BA - SeamFix
 - Horizon Fix
 - Persistent Favorites
+- Dynamic Follower Banter
+- Fuelable Framework
 
 </Details>
 
