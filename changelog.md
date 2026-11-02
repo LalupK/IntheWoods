@@ -26,6 +26,10 @@
   - Siege at Icemoth - Skeleton Replacer HD Patch
 - Northern Maiden Crew Are Alive
   - Northern Maiden Crew Are Alive - AI Overhaul Patch
+- Dead Compass Markers
+- AI Pathing Freeze Fix
+- 1.6.1170 Missing Files
+- Elven Ears for Breton NPCs
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
