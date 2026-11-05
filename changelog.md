@@ -30,6 +30,8 @@
 - AI Pathing Freeze Fix
 - 1.6.1170 Missing Files
 - Elven Ears for Breton NPCs
+- Book Covers Skyrim - PBR - Albedo Fix - Original
+- Book Covers Skyrim - PBR - Albedo Fix - Lost Library
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
