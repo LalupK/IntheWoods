@@ -44,6 +44,8 @@
 **Removed:**
 - Woodcutting Tweaks
 - Lingering Subtitles Fix
+- Aurora Fix
+- Region Weather - Engine Fix
 - Dustman's Cairn Farkas Scene Fix
 - HFs - Horker Meat
 - HFs - Horse Meat Update
@@ -52,6 +54,9 @@
 - Bash Bug Fix
 - CBBE 3BA Vanilla Outfits Redone
   - CBBE 3BA Vanilla Outfits Redone - True Fluff - CC Xavbio's Orcish Retexture Hotfix
+- Jorrvaskr Basement Floor Seams FIX
+- Jorrvaskr Basement Floor Seams FIX - PBR
+- Skyrim Cave Fixes - Patch Hub
 
 **Updated:**
 - Core Impact Framework
