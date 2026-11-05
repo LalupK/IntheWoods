@@ -84,7 +84,6 @@
 - Vigilant Enforcer Reforged - PBR
 - Civil War Champions Reforged - PBR
 - Realistic PBR Footprints
-- Reticle Arcs
 - Andrealletius' Exploit Fixes
 - Skyrim Cave Fixes
   - Skyrim Cave Fixes
