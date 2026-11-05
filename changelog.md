@@ -115,6 +115,9 @@
 - Persistent Favorites
 - Dynamic Follower Banter
 - Fuelable Framework
+- Natural Waterfalls
+- CIF - Creature Compatibility Patch - SkyPatcher
+- Object Categorization Framework - Some KID Patches - I4 - OCF
 
 </Details>
 
