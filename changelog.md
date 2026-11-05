@@ -38,6 +38,7 @@
 - Minor loadorder changes
 - Jagged Crown (Lore Gameplay Tweaks) - fixed shout cooldown and reduced enchantment strengths
 - Removed skill requirements for Thieves Guild quests
+- Fixed lighting in WhiterunDragonsreachBasement
 
 **Removed:**
 - Woodcutting Tweaks
