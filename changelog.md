@@ -8,7 +8,6 @@
 - Rudy Red Mountain - Irregular Glow
 - Overly detailed Argonian Maws - ACE Patch
 - Word Walls without Werewolves - Dustman's Cairn and Ysgramor's Tomb for Non-Companions
-- Lingering Subtitle - Engine Fix
 - 1st Person Equip Pitch Fix
 - Native Unequipping Staves Fix
 - Native Looping Equip Animations Fix
