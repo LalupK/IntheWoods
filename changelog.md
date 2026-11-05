@@ -32,6 +32,7 @@
 - Elven Ears for Breton NPCs
 - Book Covers Skyrim - PBR - Albedo Fix - Original
 - Book Covers Skyrim - PBR - Albedo Fix - Lost Library
+- Dead Compass Markers
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
