@@ -33,6 +33,7 @@
 - Book Covers Skyrim - PBR - Albedo Fix - Original
 - Book Covers Skyrim - PBR - Albedo Fix - Lost Library
 - Dead Compass Markers
+- Baked Goods - Skyrim Engine Fixes
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
