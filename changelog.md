@@ -127,6 +127,10 @@
 - Natural Waterfalls
 - CIF - Creature Compatibility Patch - SkyPatcher
 - Object Categorization Framework - Some KID Patches - I4 - OCF
+- BodySlide and Outfit Studio
+- Stuck on Screen Auto Load Door Fix SKSE
+- Death Idle Fix
+- SkyPatcher
 
 </Details>
 
