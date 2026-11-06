@@ -33,6 +33,7 @@
 - Book Covers Skyrim - PBR - Albedo Fix - Lost Library
 - Dead Compass Markers
 - Baked Goods - Skyrim Engine Fixes
+- Reticle Arcs - Extensions
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
@@ -57,6 +58,7 @@
 - Jorrvaskr Basement Floor Seams FIX
 - Jorrvaskr Basement Floor Seams FIX - PBR
 - Skyrim Cave Fixes - Patch Hub
+- Reticle Arcs - Breath Arc
 
 **Updated:**
 - Core Impact Framework
