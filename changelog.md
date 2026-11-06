@@ -29,12 +29,13 @@
 - AI Pathing Freeze Fix
 - 1.6.1170 Missing Files
 - Elven Ears for Breton NPCs
-- Book Covers Skyrim - PBR - Albedo Fix - Original
+- Book Covers Skyrim - PBR - Albedo Fix - Desaturated
 - Book Covers Skyrim - PBR - Albedo Fix - Lost Library
 - Dead Compass Markers
 - Baked Goods - Skyrim Engine Fixes
 - Reticle Arcs - Extensions
 - Sundered Seasons - Sunder and Wraithguard (and Forgotten Seasons) Reintegration
+- Shadowrend - PBR Redone
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
