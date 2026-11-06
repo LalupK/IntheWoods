@@ -47,6 +47,7 @@
 - Fixed lighting in WhiterunDragonsreachBasement
 - Fixed NPCs not firing crossbows (I'm yet to have this occur again while testing)
 - Disabled RASS' Rainy Weather Character Visuals
+- Campfire Animations: disabled Toggle Menu and enabled Interrupt Animations
 
 **Removed:**
 - Woodcutting Tweaks
