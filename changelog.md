@@ -46,6 +46,7 @@
 - Removed skill requirements for Thieves Guild quests
 - Fixed lighting in WhiterunDragonsreachBasement
 - Fixed NPCs not firing crossbows (I'm yet to have this occur again while testing)
+- Disabled RASS' Rainy Weather Character Visuals
 
 **Removed:**
 - Woodcutting Tweaks
