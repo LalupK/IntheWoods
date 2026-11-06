@@ -68,6 +68,8 @@
 - Skyrim Cave Fixes - Patch Hub
 - Reticle Arcs - Breath Arc
 - Sunder and Wraithguard - Arniel's Endeavor
+- Combat Music Fix NG
+- Music Queue Fix
 
 **Updated:**
 - In the Woods - BodySlide Output
