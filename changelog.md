@@ -131,6 +131,8 @@
 - Stuck on Screen Auto Load Door Fix SKSE
 - Death Idle Fix
 - SkyPatcher
+- Light Placer
+- Stalhrim Armors and Weapons Retexture - Half
 
 </Details>
 
