@@ -9,7 +9,6 @@
 - Overly detailed Argonian Maws - ACE Patch
 - Word Walls without Werewolves - Dustman's Cairn and Ysgramor's Tomb for Non-Companions
 - 1st Person Equip Pitch Fix
-- Native Unequipping Staves Fix
 - Native Looping Equip Animations Fix
 - Whiterun Basement Tiling Fix - Jorrvaskr - Dragonsreach - Honningbrew Meadery
 - Follower Dialogue Expansion - Valerica
