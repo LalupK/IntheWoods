@@ -43,7 +43,7 @@
 - Jagged Crown (Lore Gameplay Tweaks) - fixed shout cooldown and reduced enchantment strengths
 - Removed skill requirements for Thieves Guild quests
 - Fixed lighting in WhiterunDragonsreachBasement
-- Fixed NPCs not firing crossbows
+- Fixed NPCs not firing crossbows (I'm yet to have this occur again while testing)
 
 **Removed:**
 - Woodcutting Tweaks
