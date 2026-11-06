@@ -34,6 +34,7 @@
 - Dead Compass Markers
 - Baked Goods - Skyrim Engine Fixes
 - Reticle Arcs - Extensions
+- Sundered Seasons - Sunder and Wraithguard (and Forgotten Seasons) Reintegration
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
@@ -59,6 +60,7 @@
 - Jorrvaskr Basement Floor Seams FIX - PBR
 - Skyrim Cave Fixes - Patch Hub
 - Reticle Arcs - Breath Arc
+- Sunder and Wraithguard - Arniel's Endeavor
 
 **Updated:**
 - Core Impact Framework
