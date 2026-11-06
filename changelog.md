@@ -148,6 +148,7 @@
 - SkyPatcher
 - Light Placer
 - Stalhrim Armors and Weapons Retexture - Half
+- NPCs React To Fire
 
 </Details>
 
