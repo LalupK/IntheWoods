@@ -66,6 +66,9 @@
 - Sunder and Wraithguard - Arniel's Endeavor
 
 **Updated:**
+- In the Woods - BodySlide Output
+- In the Woods - Configuration Output
+- In the Woods - Nemesis Output
 - Core Impact Framework
 - PGPatcher
 - Nordic Farmfield Stonewalls
