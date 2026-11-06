@@ -45,6 +45,9 @@
 
 **Removed:**
 - Woodcutting Tweaks
+  - Main File
+  - Campfire Patch
+- Lore Gameplay Tweaks - Merged - Woodcutting Tweaks Patch
 - Lingering Subtitles Fix
 - Aurora Fix
 - Region Weather - Engine Fix
