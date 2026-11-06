@@ -36,6 +36,9 @@
 - Reticle Arcs - Extensions
 - Sundered Seasons - Sunder and Wraithguard (and Forgotten Seasons) Reintegration
 - Shadowrend - PBR Redone
+- Featherstone's Repository
+  - Defy The Gardener - Message from Neloth
+  - More Wells for SunHelm - Vanilla
 
 **Changes & Fixes:**
 - Switched to COACHWICKWACK's Mortal Enemies synthesis patcher
